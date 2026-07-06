@@ -56,12 +56,24 @@ Pushes to `main` trigger `.github/workflows/deploy.yml`, which builds with
 [withastro/action](https://github.com/withastro/action) and publishes to
 GitHub Pages.
 
-One-time repo setup (Settings → Pages):
+One-time repo setup (Settings → Pages): **Build and deployment → Source**
+must be *GitHub Actions*.
 
-1. **Build and deployment → Source**: GitHub Actions.
-2. **Custom domain**: `arshanskaya.com` (already in `public/CNAME`, which
-   ships to `dist/CNAME` on every build).
-3. Enable **Enforce HTTPS** once the certificate has provisioned.
+### Current state: preview at arshanskaya.github.io
+
+Until the DNS cutover, the site is served at **https://arshanskaya.github.io/**
+(the repo lives in the `arshanskaya` org under the name
+`arshanskaya.github.io`, so it deploys to the org's root Pages site with the
+same URL structure production will have). `astro.config.mjs` has `site` set to
+the preview URL for correct sitemap/RSS links.
+
+At cutover time:
+
+1. Set `site: "https://arshanskaya.com"` in `astro.config.mjs`.
+2. Recreate `public/CNAME` containing the single line `arshanskaya.com`.
+3. Commit and push, then set the custom domain in Settings → Pages (or
+   `gh api -X PUT repos/arshanskaya/arshanskaya.github.io/pages -f cname=arshanskaya.com`).
+4. Enable **Enforce HTTPS** once the certificate has provisioned.
 
 ### DNS cutover (manual, at your domain registrar)
 
@@ -77,7 +89,7 @@ verified in repo settings.
    185.199.110.153
    185.199.111.153
    ```
-2. `www` subdomain → **CNAME** record pointing at `<github-username>.github.io`.
+2. `www` subdomain → **CNAME** record pointing at `arshanskaya.github.io`.
 3. Wait for DNS propagation, then confirm in GitHub repo Settings → Pages that
    the custom domain shows as verified with HTTPS available.
 4. Spot check: `curl -I https://arshanskaya.com` should show `server:
