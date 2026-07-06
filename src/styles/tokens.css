@@ -1,0 +1,43 @@
+/* Design tokens from the Claude Design handoff
+   (design/Arshanskaya.com refresh.zip → README "Design Tokens"). */
+:root {
+  /* color */
+  --bg: #f5f3ee;
+  --bg-alt: #e7e3db;
+  --bg-well: #ded9d0;
+  --ink: #1b1a17;
+  --muted: #8b857a;
+  --muted-ink: #4a473f;
+  --serif-ink: #22201c;
+  --serif-ink-soft: #3a362f;
+  --rule: #e4dfd6;
+  --chip-border: #d8d2c8;
+  --footer-text: #cbc6bc;
+  --placeholder-note: #8a8478;
+  --placeholder-stripes: repeating-linear-gradient(45deg, #cfc9bf 0 14px, #d8d3ca 14px 28px);
+  --tile-overlay: linear-gradient(to top, rgba(0, 0, 0, 0.42), transparent 52%);
+  --caption-veil: rgba(245, 243, 238, 0.92);
+
+  /* type */
+  --font-serif: "Spectral", Georgia, serif;
+  --font-ui: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  --font-mono: ui-monospace, Menlo, monospace;
+
+  /* tracking */
+  --track-label: 0.24em;
+  --track-nav: 0.22em;
+  --track-action: 0.2em;
+  --track-chip: 0.16em;
+  --track-tile: 0.14em;
+
+  /* layout */
+  --gutter: 72px;
+  --max-shell: 1440px;
+  --hairline-gap: 2px;
+}
+
+@media (max-width: 900px) {
+  :root {
+    --gutter: 24px;
+  }
+}

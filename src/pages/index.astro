@@ -1,13 +1,300 @@
 ---
-import { getCollection } from "astro:content";
+import { Image } from "astro:assets";
 import Layout from "../layouts/Layout.astro";
-import PostList from "../components/PostList.astro";
+import onView from "../data/on-view.json";
+import heroImage from "../assets/uploads/2025/08/Pixels-scaled.jpg";
+import paintingsTile from "../assets/uploads/2025/08/Pixel-7.5-wall-scaled.jpg";
+import performanceTile from "../assets/uploads/2020/09/Me-Intertwined-Realities-1.jpg";
+import spaceTile from "../assets/uploads/2022/02/moon-gallery-foundation-ISS-payload-square-scaled.jpg";
 
-const posts = (await getCollection("posts")).sort(
-  (a, b) => b.data.date.valueOf() - a.data.date.valueOf(),
-);
+const tileWidths = [720, 1080, 1440];
+const tileSizes = "(max-width: 900px) 100vw, 720px";
 ---
 
-<Layout title="Alexandra Arshanskaya">
-  <PostList posts={posts} />
+<Layout title="Alexandra Arshanskaya" constrained={false}>
+  <section class="hero">
+    <div class="hero-copy">
+      <p class="eyebrow">Painter · Performance · The Hague</p>
+      <p class="statement">
+        Working between the seen and the sensed — where spatial perception, time and the line
+        become a single act.
+      </p>
+      <div class="actions">
+        <a class="action-primary" href="/paintings/">View the work</a>
+        <a class="action-secondary" href="/about/">About</a>
+      </div>
+    </div>
+    <div class="hero-art">
+      <Image src={heroImage} alt="Pixels — oil on canvas by Alexandra Arshanskaya" widths={tileWidths} sizes={tileSizes} />
+      <div class="hero-caption">“Pixels” — oil on canvas, 100 × 100 cm</div>
+    </div>
+  </section>
+
+  <section class="mediums">
+    <a class="tile" href="/paintings/">
+      <Image src={paintingsTile} alt="Pixel 7.5 — oil painting on a gallery wall" widths={tileWidths} sizes={tileSizes} />
+      <div class="tile-overlay">
+        <span class="tile-label">Paintings</span>
+        <span class="tile-index">01</span>
+      </div>
+    </a>
+    <a class="tile tile-placeholder" href="/drawings/">
+      <div class="stripes"></div>
+      <span class="placeholder-note">[ drawing — ink on paper ]</span>
+      <div class="tile-overlay no-gradient">
+        <span class="tile-label ink">Drawings</span>
+        <span class="tile-index ink">02</span>
+      </div>
+    </a>
+    <a class="tile" href="/category/performance/">
+      <Image
+        src={performanceTile}
+        alt="Alexandra Arshanskaya with the Intertwined Realities paintings"
+        widths={tileWidths}
+        sizes={tileSizes}
+        class="align-top"
+      />
+      <div class="tile-overlay">
+        <span class="tile-label">Performance</span>
+        <span class="tile-index">03</span>
+      </div>
+    </a>
+    <a class="tile" href="/vanishing-point-project-for-moon-gallery/">
+      <Image
+        src={spaceTile}
+        alt="Moon Gallery payload aboard the International Space Station"
+        widths={tileWidths}
+        sizes={tileSizes}
+      />
+      <div class="tile-overlay">
+        <span class="tile-label">Space</span>
+        <span class="tile-index">04</span>
+      </div>
+    </a>
+  </section>
+
+  <section class="on-view">
+    <span class="on-view-label">Currently on view</span>
+    <span class="on-view-body">
+      <a href={onView.href}><em>{onView.title}</em></a> — {onView.detail}
+    </span>
+    <a class="on-view-all" href="/category/exhibitions/">All exhibitions</a>
+  </section>
 </Layout>
+
+<style>
+  .eyebrow {
+    font-size: 11px;
+    letter-spacing: var(--track-label);
+    text-transform: uppercase;
+    color: var(--muted);
+    margin: 0 0 30px;
+  }
+
+  .hero {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    min-height: 720px;
+  }
+
+  .hero-copy {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 64px var(--gutter);
+  }
+
+  .statement {
+    font-family: var(--font-serif);
+    font-weight: 300;
+    font-size: 40px;
+    line-height: 1.4;
+    margin: 0;
+    color: var(--serif-ink);
+    text-wrap: pretty;
+  }
+
+  .actions {
+    margin-top: 44px;
+    display: flex;
+    gap: 28px;
+  }
+
+  .action-primary,
+  .action-secondary {
+    font-size: 11px;
+    letter-spacing: var(--track-action);
+    text-transform: uppercase;
+  }
+
+  .action-primary {
+    border: 1px solid var(--ink);
+    padding: 15px 32px;
+  }
+
+  .action-secondary {
+    padding: 15px 0;
+    border-bottom: 1.5px solid var(--ink);
+    align-self: center;
+  }
+
+  .hero-art {
+    position: relative;
+    overflow: hidden;
+    background: var(--bg-alt);
+  }
+
+  .hero-art :global(img) {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+
+  .hero-caption {
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    padding: 16px 22px;
+    background: var(--caption-veil);
+    font-family: var(--font-serif);
+    font-size: 15px;
+  }
+
+  .mediums {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: var(--hairline-gap);
+    background: var(--rule);
+    border-top: 2px solid var(--rule);
+  }
+
+  .tile {
+    position: relative;
+    height: 560px;
+    overflow: hidden;
+    background: var(--bg-well);
+    display: block;
+  }
+
+  .tile :global(img) {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+
+  .tile :global(img.align-top) {
+    object-position: center top;
+  }
+
+  .tile-overlay {
+    position: absolute;
+    inset: 0;
+    display: flex;
+    align-items: flex-end;
+    justify-content: space-between;
+    padding: 34px;
+    background: var(--tile-overlay);
+  }
+
+  .tile-overlay.no-gradient {
+    background: none;
+  }
+
+  .tile-label {
+    color: #fff;
+    font-size: 24px;
+    letter-spacing: var(--track-tile);
+    text-transform: uppercase;
+  }
+
+  .tile-index {
+    color: rgba(255, 255, 255, 0.7);
+    font-size: 12px;
+    letter-spacing: 0.16em;
+  }
+
+  .tile-label.ink {
+    color: var(--ink);
+  }
+
+  .tile-index.ink {
+    color: var(--placeholder-note);
+  }
+
+  .stripes {
+    width: 100%;
+    height: 100%;
+    background-image: var(--placeholder-stripes);
+  }
+
+  .placeholder-note {
+    position: absolute;
+    top: 34px;
+    left: 34px;
+    font-family: var(--font-mono);
+    font-size: 11px;
+    color: var(--placeholder-note);
+  }
+
+  .on-view {
+    display: grid;
+    grid-template-columns: 180px 1fr auto;
+    align-items: baseline;
+    gap: 24px;
+    padding: 46px var(--gutter);
+    border-top: 1px solid var(--rule);
+    margin-top: var(--hairline-gap);
+  }
+
+  .on-view-label {
+    font-size: 11px;
+    letter-spacing: var(--track-label);
+    text-transform: uppercase;
+    color: var(--muted);
+  }
+
+  .on-view-body {
+    font-family: var(--font-serif);
+    font-size: 19px;
+  }
+
+  .on-view-all {
+    font-size: 11px;
+    letter-spacing: var(--track-action);
+    text-transform: uppercase;
+    border-bottom: 1px solid var(--ink);
+    padding-bottom: 3px;
+  }
+
+  @media (max-width: 900px) {
+    .hero {
+      grid-template-columns: 1fr;
+      min-height: 0;
+    }
+
+    .hero-art {
+      min-height: 420px;
+    }
+
+    .statement {
+      font-size: 30px;
+    }
+
+    .mediums {
+      grid-template-columns: 1fr;
+    }
+
+    .tile {
+      height: 420px;
+    }
+
+    .on-view {
+      grid-template-columns: 1fr;
+      gap: 12px;
+    }
+
+    .on-view-all {
+      justify-self: start;
+    }
+  }
+</style>

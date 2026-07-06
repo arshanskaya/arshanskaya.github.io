@@ -4,9 +4,11 @@ import Layout from "../layouts/Layout.astro";
 
 export async function getStaticPaths() {
   const posts = await getCollection("posts");
-  // /contact-form/ gets a dedicated hand-written page (obfuscated email),
-  // not the raw Contact Form 7 leftovers from the WP export.
-  const pages = await getCollection("pages", (page) => page.data.slug !== "contact-form");
+  // Slugs with dedicated hand-written pages: /contact-form/ (obfuscated email
+  // instead of the Contact Form 7 leftovers) and /paintings/ (the designed
+  // works-grid index instead of the migrated WP gallery dump).
+  const dedicated = new Set(["contact-form", "paintings"]);
+  const pages = await getCollection("pages", (page) => !dedicated.has(page.data.slug));
   return [...posts, ...pages].map((entry) => ({
     params: { slug: entry.data.slug },
     props: { entry },

@@ -1,0 +1,81 @@
+[
+  {
+    "id": "pixels",
+    "title": "Pixels",
+    "medium": "Oil on canvas",
+    "widthCm": 100,
+    "heightCm": 100,
+    "year": 2025,
+    "series": "Pixels",
+    "image": "../assets/uploads/2025/08/Pixels-scaled.jpg",
+    "alt": "Pixels — abstract grid of colored squares, oil on canvas",
+    "order": 1
+  },
+  {
+    "id": "pixel-7-5",
+    "title": "Pixel 7.5",
+    "medium": "Oil on canvas",
+    "widthCm": 50,
+    "heightCm": 50,
+    "year": 2025,
+    "series": "Pixels",
+    "image": "../assets/uploads/2025/08/Pixel-7.5-wall-scaled.jpg",
+    "alt": "Pixel 7.5 — oil painting hanging on a gallery wall",
+    "order": 2
+  },
+  {
+    "id": "vanishing-point-1-0",
+    "title": "Vanishing Point 1.0",
+    "medium": "Oil on canvas",
+    "year": 2021,
+    "series": "Vanishing Point",
+    "image": "../assets/uploads/2021/09/IMG_7294-scaled.jpg",
+    "alt": "Vanishing Point 1.0 — oil painting of converging perspective lines",
+    "order": 3
+  },
+  {
+    "id": "intertwined-realities",
+    "title": "Intertwined Realities",
+    "medium": "16 oil paintings",
+    "dimsNote": "40 × 40 cm each",
+    "year": 2020,
+    "series": "Intertwined Realities",
+    "image": "../assets/uploads/2021/09/Intertwined-Realities-website.jpg",
+    "alt": "Intertwined Realities — grid of sixteen square oil paintings of window reflections",
+    "order": 4
+  },
+  {
+    "id": "vanishing-point-cube",
+    "title": "Vanishing Point — Cube",
+    "medium": "Oil on canvas",
+    "year": 2021,
+    "series": "Vanishing Point",
+    "image": "../assets/uploads/2021/06/Cube-at-Quartier-close-up.jpg",
+    "alt": "Vanishing Point — Cube, close-up of a painted cube installation",
+    "order": 5
+  },
+  {
+    "id": "placeholder-1",
+    "title": "Untitled",
+    "medium": "Oil on canvas",
+    "order": 6
+  },
+  {
+    "id": "placeholder-2",
+    "title": "Untitled",
+    "medium": "Oil on canvas",
+    "order": 7
+  },
+  {
+    "id": "placeholder-3",
+    "title": "Untitled",
+    "medium": "Acrylic on canvas",
+    "order": 8
+  },
+  {
+    "id": "placeholder-4",
+    "title": "Untitled",
+    "medium": "Oil on canvas",
+    "order": 9
+  }
+]

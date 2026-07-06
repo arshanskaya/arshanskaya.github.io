@@ -1,0 +1,245 @@
+---
+import { getCollection } from "astro:content";
+import { Image } from "astro:assets";
+import Layout from "../layouts/Layout.astro";
+
+const works = (await getCollection("works")).sort((a, b) => a.data.order - b.data.order);
+const series = [...new Set(works.map((w) => w.data.series).filter(Boolean))] as string[];
+
+function metaLine(work: (typeof works)[number]) {
+  const { medium, widthCm, heightCm, dimsNote, year } = work.data;
+  const dims = dimsNote ?? (widthCm && heightCm ? `${widthCm} × ${heightCm} cm` : null);
+  return [medium, dims, year].filter(Boolean).join(" · ");
+}
+---
+
+<Layout
+  title="Paintings"
+  description="Paintings by Alexandra Arshanskaya — oil and acrylic investigations of spatial perception."
+  constrained={false}
+>
+  <header class="page-header">
+    <div>
+      <p class="eyebrow">Works · Oil &amp; acrylic on canvas</p>
+      <h1>Paintings</h1>
+    </div>
+    <p class="intro">
+      Investigations of spatial perception — the vanishing point, the grid, the interval between
+      one plane and the next.
+    </p>
+  </header>
+
+  <div class="filter-row">
+    <div class="chips" role="group" aria-label="Filter by series">
+      <button class="chip active" data-series="">All</button>
+      {series.map((s) => <button class="chip" data-series={s}>{s}</button>)}
+    </div>
+    <span class="count" data-count>{works.length} works</span>
+  </div>
+
+  <div class="works-grid">
+    {works.map((work) => (
+      <div class="card" data-series={work.data.series ?? ""}>
+        {work.data.image ? (
+          <div class="card-image">
+            <Image
+              src={work.data.image}
+              alt={work.data.alt}
+              widths={[480, 720, 960]}
+              sizes="(max-width: 700px) 100vw, (max-width: 1100px) 50vw, 480px"
+            />
+          </div>
+        ) : (
+          <div class="card-image placeholder">
+            <span class="placeholder-note">[ painting — image to add ]</span>
+          </div>
+        )}
+        <div class:list={["card-title", { muted: !work.data.image }]}>{work.data.title}</div>
+        <div class="card-meta">{metaLine(work)}</div>
+      </div>
+    ))}
+  </div>
+</Layout>
+
+<script>
+  // Series filter, per the handoff: filter the grid client-side, no animation.
+  const chips = document.querySelectorAll<HTMLButtonElement>(".chip");
+  const cards = document.querySelectorAll<HTMLElement>(".card");
+  const count = document.querySelector("[data-count]");
+
+  chips.forEach((chip) => {
+    chip.addEventListener("click", () => {
+      const series = chip.dataset.series ?? "";
+      chips.forEach((c) => c.classList.toggle("active", c === chip));
+      let visible = 0;
+      cards.forEach((card) => {
+        const show = !series || card.dataset.series === series;
+        card.style.display = show ? "" : "none";
+        if (show) visible++;
+      });
+      if (count) count.textContent = `${visible} ${visible === 1 ? "work" : "works"}`;
+    });
+  });
+</script>
+
+<style>
+  .eyebrow {
+    font-size: 11px;
+    letter-spacing: var(--track-label);
+    text-transform: uppercase;
+    color: var(--muted);
+    margin: 0 0 20px;
+  }
+
+  .page-header {
+    display: grid;
+    grid-template-columns: 1fr auto;
+    align-items: end;
+    gap: 24px;
+    padding: 80px var(--gutter) 40px;
+  }
+
+  .page-header h1 {
+    font-family: var(--font-serif);
+    font-weight: 400;
+    font-size: 64px;
+    line-height: 1;
+    margin: 0;
+  }
+
+  .intro {
+    font-family: var(--font-serif);
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 1.5;
+    margin: 0;
+    max-width: 380px;
+    color: var(--serif-ink-soft);
+    text-align: right;
+  }
+
+  .filter-row {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 24px;
+    flex-wrap: wrap;
+    padding: 0 var(--gutter) 40px;
+  }
+
+  .chips {
+    display: flex;
+    gap: 14px;
+    flex-wrap: wrap;
+  }
+
+  .chip {
+    font-family: var(--font-ui);
+    font-size: 11px;
+    letter-spacing: var(--track-chip);
+    text-transform: uppercase;
+    padding: 10px 20px;
+    border: 1px solid var(--chip-border);
+    background: none;
+    color: var(--muted-ink);
+    cursor: pointer;
+  }
+
+  .chip:hover {
+    opacity: 0.62;
+  }
+
+  .chip.active {
+    background: var(--ink);
+    color: var(--bg);
+    border-color: var(--ink);
+  }
+
+  .count {
+    font-size: 11px;
+    letter-spacing: var(--track-chip);
+    text-transform: uppercase;
+    color: var(--muted);
+  }
+
+  .works-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: var(--hairline-gap);
+    background: var(--rule);
+  }
+
+  .card {
+    background: var(--bg);
+    padding: 26px;
+  }
+
+  .card-image {
+    height: 400px;
+    overflow: hidden;
+    background: var(--bg-alt);
+    position: relative;
+  }
+
+  .card-image :global(img) {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+
+  .card-image.placeholder {
+    background-image: var(--placeholder-stripes);
+  }
+
+  .placeholder-note {
+    position: absolute;
+    top: 20px;
+    left: 20px;
+    font-family: var(--font-mono);
+    font-size: 11px;
+    color: var(--placeholder-note);
+  }
+
+  .card-title {
+    margin-top: 16px;
+    font-family: var(--font-serif);
+    font-size: 18px;
+  }
+
+  .card-title.muted {
+    color: var(--muted);
+  }
+
+  .card-meta {
+    margin-top: 4px;
+    font-size: 12px;
+    letter-spacing: 0.04em;
+    color: var(--muted);
+  }
+
+  @media (max-width: 1100px) {
+    .works-grid {
+      grid-template-columns: repeat(2, 1fr);
+    }
+  }
+
+  @media (max-width: 700px) {
+    .works-grid {
+      grid-template-columns: 1fr;
+    }
+
+    .page-header {
+      grid-template-columns: 1fr;
+      align-items: start;
+      padding-top: 48px;
+    }
+
+    .page-header h1 {
+      font-size: 44px;
+    }
+
+    .intro {
+      text-align: left;
+    }
+  }
+</style>

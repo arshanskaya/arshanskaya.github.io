@@ -1,18 +1,32 @@
 ---
+import "@fontsource/spectral/300.css";
+import "@fontsource/spectral/400.css";
+import "@fontsource/spectral/400-italic.css";
+import "../styles/tokens.css";
+
 interface Props {
   title: string;
   description?: string;
+  /** Wrap the page in a readable article column. Full-bleed pages (homepage,
+      medium indexes) opt out and manage their own sections. */
+  constrained?: boolean;
 }
-const { title, description = "Alexandra Arshanskaya — paintings, drawings, performance and video art." } = Astro.props;
+const {
+  title,
+  description = "Alexandra Arshanskaya — painter and performance artist, The Hague. Paintings, drawings, performance and space projects.",
+  constrained = true,
+} = Astro.props;
 const siteTitle = "Alexandra Arshanskaya";
+
 const navItems = [
-  { label: "Home", href: "/" },
   { label: "Paintings", href: "/paintings/" },
   { label: "Drawings", href: "/drawings/" },
   { label: "Performance", href: "/category/performance/" },
-  { label: "Alexandra", href: "/about/" },
+  { label: "Space", href: "/vanishing-point-project-for-moon-gallery/" },
+  { label: "About", href: "/about/" },
   { label: "Contact", href: "/contact-form/" },
 ];
+const currentPath = Astro.url.pathname.replace(/\/?$/, "/");
 ---
 
 <!doctype html>
@@ -26,107 +40,181 @@ const navItems = [
     <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
   </head>
   <body>
-    <header class="site-header">
-      <a class="site-title" href="/">{siteTitle}</a>
-      <nav>
-        <ul>
-          {navItems.map((item) => (
-            <li><a href={item.href}>{item.label}</a></li>
-          ))}
-        </ul>
-      </nav>
-    </header>
-    <main>
-      <slot />
-    </main>
-    <footer class="site-footer">
-      <p>&copy; {new Date().getFullYear()} {siteTitle}</p>
-    </footer>
+    <div class="shell">
+      <header>
+        <nav class="site-nav">
+          <a class="wordmark" href="/">{siteTitle}</a>
+          <div class="nav-links">
+            {navItems.map((item) => (
+              <a href={item.href} class:list={{ active: currentPath === item.href }}>{item.label}</a>
+            ))}
+          </div>
+        </nav>
+        <div class="hairline"></div>
+      </header>
+      <main>
+        {constrained ? <div class="prose">{<slot />}</div> : <slot />}
+      </main>
+      <footer class="site-footer">
+        <span>&copy; {new Date().getFullYear()} Alexandra Arshanskaya · The Hague</span>
+        <div class="footer-links">
+          <a href="/contact-form/">Contact</a>
+          <a href="/rss.xml">RSS</a>
+        </div>
+      </footer>
+    </div>
   </body>
 </html>
 
 <style is:global>
-  :root {
-    color-scheme: light;
-    --text: #1a1a1a;
-    --muted: #5a5a5a;
-    --bg: #ffffff;
-    --border: #e4e2dd;
-    --max-width: 46rem;
-  }
-
   * {
     box-sizing: border-box;
   }
 
+  html,
   body {
     margin: 0;
-    font-family: "Iowan Old Style", "Palatino Linotype", Georgia, serif;
-    color: var(--text);
+    padding: 0;
     background: var(--bg);
+    color: var(--ink);
+  }
+
+  body {
+    font-family: var(--font-ui);
     line-height: 1.6;
-  }
-
-  main {
-    max-width: var(--max-width);
-    margin: 0 auto;
-    padding: 2rem 1.25rem 4rem;
-  }
-
-  h1, h2, h3 {
-    line-height: 1.25;
-    font-weight: 500;
   }
 
   a {
     color: inherit;
+    text-decoration: none;
+    transition: opacity 0.15s ease;
+  }
+
+  a:hover {
+    opacity: 0.62;
   }
 
   img {
+    display: block;
     max-width: 100%;
-    height: auto;
-    display: block;
   }
 
-  .site-header {
-    max-width: var(--max-width);
+  /* Readable column for article-type pages (posts, migrated WP pages). */
+  .prose {
+    max-width: 46rem;
     margin: 0 auto;
-    padding: 2rem 1.25rem 1rem;
-    border-bottom: 1px solid var(--border);
+    padding: 3rem var(--gutter) 5rem;
+    font-family: var(--font-serif);
+    font-weight: 300;
+    font-size: 1.05rem;
+    color: var(--serif-ink-soft);
   }
 
-  .site-title {
-    display: block;
-    font-size: 1.5rem;
-    text-decoration: none;
-    margin-bottom: 0.75rem;
+  .prose h1,
+  .prose h2,
+  .prose h3 {
+    font-family: var(--font-serif);
+    font-weight: 400;
+    line-height: 1.2;
+    color: var(--serif-ink);
   }
 
-  .site-header nav ul {
+  .prose h1 {
+    font-size: 2.5rem;
+  }
+
+  .prose a {
+    border-bottom: 1px solid var(--ink);
+  }
+
+  .prose img {
+    height: auto;
+  }
+
+  .prose iframe {
+    max-width: 100%;
+  }
+</style>
+
+<style>
+  .shell {
+    max-width: var(--max-shell);
+    margin: 0 auto;
+    background: var(--bg);
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+  }
+
+  main {
+    flex: 1;
+  }
+
+  .site-nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 24px;
+    flex-wrap: wrap;
+    padding: 32px var(--gutter);
+  }
+
+  .wordmark {
+    font-size: 14px;
+    letter-spacing: var(--track-label);
+    text-transform: uppercase;
+    font-weight: 500;
+    white-space: nowrap;
+  }
+
+  .nav-links {
     display: flex;
     flex-wrap: wrap;
-    gap: 1.25rem;
-    list-style: none;
-    padding: 0;
-    margin: 0;
-    font-size: 0.95rem;
+    gap: 32px;
+    font-size: 11px;
+    letter-spacing: var(--track-nav);
+    text-transform: uppercase;
+    color: var(--muted-ink);
   }
 
-  .site-header nav a {
-    text-decoration: none;
-    color: var(--muted);
+  .nav-links a.active {
+    color: var(--ink);
+    border-bottom: 1px solid var(--ink);
+    padding-bottom: 3px;
   }
 
-  .site-header nav a:hover {
-    color: var(--text);
+  .hairline {
+    height: 1px;
+    background: var(--rule);
+    margin: 0 var(--gutter);
   }
 
   .site-footer {
-    max-width: var(--max-width);
-    margin: 0 auto;
-    padding: 1.5rem 1.25rem 3rem;
-    border-top: 1px solid var(--border);
-    color: var(--muted);
-    font-size: 0.85rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 16px;
+    flex-wrap: wrap;
+    padding: 40px var(--gutter);
+    background: var(--ink);
+    color: var(--footer-text);
+    font-size: 12px;
+    letter-spacing: 0.12em;
+  }
+
+  .footer-links {
+    display: flex;
+    gap: 26px;
+  }
+
+  @media (max-width: 900px) {
+    .site-nav {
+      padding-top: 24px;
+      padding-bottom: 20px;
+    }
+
+    .nav-links {
+      gap: 18px;
+    }
   }
 </style>
