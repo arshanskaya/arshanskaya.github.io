@@ -1,0 +1,44 @@
+---
+import type { CollectionEntry } from "astro:content";
+
+interface Props {
+  posts: CollectionEntry<"posts">[];
+}
+const { posts } = Astro.props;
+const dateFormatter = new Intl.DateTimeFormat("en-GB", { year: "numeric", month: "long", day: "numeric" });
+---
+
+<ul class="post-list">
+  {posts.map((post) => (
+    <li>
+      <a href={`/${post.data.slug}/`}>{post.data.title}</a>
+      <time datetime={post.data.date.toISOString()}>{dateFormatter.format(post.data.date)}</time>
+    </li>
+  ))}
+</ul>
+
+<style>
+  .post-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  .post-list li {
+    display: flex;
+    justify-content: space-between;
+    gap: 1rem;
+    padding: 0.6rem 0;
+    border-bottom: 1px solid var(--border);
+  }
+  .post-list a {
+    text-decoration: none;
+  }
+  .post-list a:hover {
+    text-decoration: underline;
+  }
+  .post-list time {
+    color: var(--muted);
+    font-size: 0.9rem;
+    white-space: nowrap;
+  }
+</style>

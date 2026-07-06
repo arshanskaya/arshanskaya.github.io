@@ -1,0 +1,56 @@
+---
+import { getCollection, render } from "astro:content";
+import Layout from "../layouts/Layout.astro";
+
+export async function getStaticPaths() {
+  const posts = await getCollection("posts");
+  // /contact-form/ gets a dedicated hand-written page (obfuscated email),
+  // not the raw Contact Form 7 leftovers from the WP export.
+  const pages = await getCollection("pages", (page) => page.data.slug !== "contact-form");
+  return [...posts, ...pages].map((entry) => ({
+    params: { slug: entry.data.slug },
+    props: { entry },
+  }));
+}
+
+const { entry } = Astro.props;
+const { Content } = await render(entry);
+const isPost = entry.collection === "posts";
+const dateLabel = isPost
+  ? new Intl.DateTimeFormat("en-GB", { year: "numeric", month: "long", day: "numeric" }).format(entry.data.date)
+  : null;
+---
+
+<Layout title={entry.data.title} description={entry.data.description}>
+  <article>
+    <h1>{entry.data.title}</h1>
+    {isPost && (
+      <p class="meta">
+        <time datetime={entry.data.date.toISOString()}>{dateLabel}</time>
+        {entry.data.categories.length > 0 && (
+          <>
+            {" · "}
+            {entry.data.categories.map((cat: string, i: number) => (
+              <>
+                {i > 0 && ", "}
+                <a href={`/category/${cat}/`}>{cat.replace(/-/g, " ")}</a>
+              </>
+            ))}
+          </>
+        )}
+      </p>
+    )}
+    <Content />
+  </article>
+</Layout>
+
+<style>
+  .meta {
+    color: var(--muted);
+    font-size: 0.9rem;
+    margin-top: -0.5rem;
+  }
+  .meta a {
+    color: inherit;
+  }
+</style>

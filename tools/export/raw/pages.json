@@ -1,0 +1,744 @@
+[
+  {
+    "id": 1397,
+    "date": "2022-02-18T22:49:46",
+    "date_gmt": "2022-02-18T21:49:46",
+    "guid": {
+      "rendered": "https://arshanskaya.com/?page_id=1397"
+    },
+    "modified": "2022-02-18T22:49:46",
+    "modified_gmt": "2022-02-18T21:49:46",
+    "slug": "vanishing-point-project-for-moon-gallery",
+    "status": "publish",
+    "type": "page",
+    "link": "https://arshanskaya.com/vanishing-point-project-for-moon-gallery/",
+    "title": {
+      "rendered": "Vanishing Point project for Moon Gallery"
+    },
+    "content": {
+      "rendered": "\n<p><strong>Alexandra&#8217;s project “Vanishing point” is about the fundamental concept of perspective representation. As a part of the Moon Gallery the “Vanishing Point” represents in Space the essence of human spatial perception: at the ISS, reaching low Earth orbit, and eventually at the Moon surface.</strong></p>\n\n\n\n<figure class=\"wp-block-image\" id=\"block-348b227b-6018-426d-8ddf-5f8a6ad6cc59\"><img decoding=\"async\" src=\"https://arshanskaya.com/wp-content/uploads/2021/09/IMG_7294-620x620.jpg\" alt=\"This image has an empty alt attribute; its file name is IMG_7294-620x620.jpg\"/><figcaption>Vanishing Point 1.0</figcaption></figure>\n\n\n\n<p id=\"block-a54c729d-e64d-47c0-8eae-2cb2f400acdc\"><strong>A vanishing point is a fundamental concept of perspective representation and conveys the essence of human perception of space.</strong></p>\n\n\n\n<p id=\"block-f9e3395a-3ef6-4855-b311-1f8409974071\">Our spatial perception is unique and ultimately connected with a space we explore.&nbsp; Here on Earth we construct perspective representation following general visual and mathematical laws and physiological abilities as well as limitations of human eye. With some adjustments the same rules will work on the Moon surface. A vanishing point is a point in a perspective drawing to which parallel lines not parallel to the image plane appear to converge. This is the one of the most important concepts in perspective representation.</p>\n\n\n\n<p id=\"block-f78a7c4c-49f2-4799-a1b2-b17b88011b81\">Alexandra’s painting “Vanishing Point 1.0” (50&#215;50 cm, oil on canvas) represents a vanishing point in an almost abstract way and was inspired by the view of a channel in a Dutch city with a suggestion of buildings along a channel and their reflections in a water. In this painting the vanishing point itself is not visible as the parallel lines merge into a white background.&nbsp; This reminds of a light in the end of tunnel and can be seen as a metaphor for unreachable perfection.</p>\n\n\n\n<p id=\"block-aacca892-72be-4c12-95d7-6607cd39af7a\">For the Moon Gallery launched to the ISS Alexandra put this image in the middle of a 1x1cm epoxy cube to exaggerate the spatial perception and create the illusion of infinity. The image will be visible to both the ISS crew and the web camera.</p>\n\n\n\n<p id=\"block-9fb67278-a3c5-44dd-a95c-8dea4285d091\">The “Vanishing Point” will represent the human spatial perception in space.</p>\n\n\n\n<p><strong>About Moon Gallery</strong></p>\n\n\n\n<p>Moon Gallery is an international collaborative artwork and a gallery of ideas worth sending to the Moon. Moon Gallery aims to set up the first permanent museum on the Moon. <a href=\"http://www.moongallery.eu\" target=\"_blank\" rel=\"noreferrer noopener\">Moon Gallery</a> will launch 100 artefacts to the Moon within the compact format of 10 x 10 x 1cm plate on a lunar lander exterior panelling as early as 2025. In this Petri-dish-like gallery, we are developing a culture for future interplanetary society. What are the ideas we want to promote into the future? What are the ideas we want to leave behind?</p>\n\n\n\n<p></p>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>Alexandra&#8217;s project “Vanishing point” is about the fundamental concept of perspective representation. As a part of the Moon Gallery the “Vanishing Point” represents in Space the essence of human spatial perception: at the ISS, reaching low Earth orbit, and eventually at the Moon surface. A vanishing point is a fundamental concept of perspective representation and <a href=\"https://arshanskaya.com/vanishing-point-project-for-moon-gallery/\"> read more <span class=\"meta-nav\">&raquo;</span></a></p>\n",
+      "protected": false
+    },
+    "author": 2,
+    "featured_media": 0,
+    "parent": 0,
+    "menu_order": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "template": "",
+    "meta": {
+      "jetpack_post_was_ever_published": false,
+      "footnotes": "",
+      "_links_to": "",
+      "_links_to_target": ""
+    },
+    "class_list": [
+      "post-1397",
+      "page",
+      "type-page",
+      "status-publish",
+      "hentry",
+      "author-alexandra"
+    ],
+    "jetpack_shortlink": "https://wp.me/P43mn0-mx",
+    "jetpack_sharing_enabled": true,
+    "_links": {
+      "self": [
+        {
+          "href": "https://arshanskaya.com/wp-json/wp/v2/pages/1397",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://arshanskaya.com/wp-json/wp/v2/pages"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://arshanskaya.com/wp-json/wp/v2/types/page"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://arshanskaya.com/wp-json/wp/v2/users/2"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://arshanskaya.com/wp-json/wp/v2/comments?post=1397"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 1,
+          "href": "https://arshanskaya.com/wp-json/wp/v2/pages/1397/revisions"
+        }
+      ],
+      "predecessor-version": [
+        {
+          "id": 1398,
+          "href": "https://arshanskaya.com/wp-json/wp/v2/pages/1397/revisions/1398"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://arshanskaya.com/wp-json/wp/v2/media?parent=1397"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1168,
+    "date": "2018-11-11T23:20:44",
+    "date_gmt": "2018-11-11T22:20:44",
+    "guid": {
+      "rendered": "https://arshanskaya.com/?page_id=1168"
+    },
+    "modified": "2018-11-11T23:20:44",
+    "modified_gmt": "2018-11-11T22:20:44",
+    "slug": "privacy-policy",
+    "status": "publish",
+    "type": "page",
+    "link": "https://arshanskaya.com/privacy-policy/",
+    "title": {
+      "rendered": "Privacy Policy"
+    },
+    "content": {
+      "rendered": "<h2>Who we are</h2>\n<p>Our website address is: https://arshanskaya.com.</p>\n<h2>What personal data we collect and why we collect it</h2>\n<h3>Comments</h3>\n<p>When visitors leave comments on the site we collect the data shown in the comments form, and also the visitor&#8217;s IP address and browser user agent string to help spam detection.</p>\n<p>An anonymized string created from your email address (also called a hash) may be provided to the Gravatar service to see if you are using it. The Gravatar service privacy policy is available here: https://automattic.com/privacy/. After approval of your comment, your profile picture is visible to the public in the context of your comment.</p>\n<h3>Media</h3>\n<p>If you upload images to the website, you should avoid uploading images with embedded location data (EXIF GPS) included. Visitors to the website can download and extract any location data from images on the website.</p>\n<h3>Contact forms</h3>\n<h3>Cookies</h3>\n<p>If you leave a comment on our site you may opt-in to saving your name, email address and website in cookies. These are for your convenience so that you do not have to fill in your details again when you leave another comment. These cookies will last for one year.</p>\n<p>If you have an account and you log in to this site, we will set a temporary cookie to determine if your browser accepts cookies. This cookie contains no personal data and is discarded when you close your browser.</p>\n<p>When you log in, we will also set up several cookies to save your login information and your screen display choices. Login cookies last for two days, and screen options cookies last for a year. If you select &quot;Remember Me&quot;, your login will persist for two weeks. If you log out of your account, the login cookies will be removed.</p>\n<p>If you edit or publish an article, an additional cookie will be saved in your browser. This cookie includes no personal data and simply indicates the post ID of the article you just edited. It expires after 1 day.</p>\n<h3>Embedded content from other websites</h3>\n<p>Articles on this site may include embedded content (e.g. videos, images, articles, etc.). Embedded content from other websites behaves in the exact same way as if the visitor has visited the other website.</p>\n<p>These websites may collect data about you, use cookies, embed additional third-party tracking, and monitor your interaction with that embedded content, including tracking your interaction with the embedded content if you have an account and are logged in to that website.</p>\n<h3>Analytics</h3>\n<h2>Who we share your data with</h2>\n<h2>How long we retain your data</h2>\n<p>If you leave a comment, the comment and its metadata are retained indefinitely. This is so we can recognize and approve any follow-up comments automatically instead of holding them in a moderation queue.</p>\n<p>For users that register on our website (if any), we also store the personal information they provide in their user profile. All users can see, edit, or delete their personal information at any time (except they cannot change their username). Website administrators can also see and edit that information.</p>\n<h2>What rights you have over your data</h2>\n<p>If you have an account on this site, or have left comments, you can request to receive an exported file of the personal data we hold about you, including any data you have provided to us. You can also request that we erase any personal data we hold about you. This does not include any data we are obliged to keep for administrative, legal, or security purposes.</p>\n<h2>Where we send your data</h2>\n<p>Visitor comments may be checked through an automated spam detection service.</p>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>Who we are Our website address is: https://arshanskaya.com. What personal data we collect and why we collect it Comments When visitors leave comments on the site we collect the data shown in the comments form, and also the visitor&#8217;s IP address and browser user agent string to help spam detection. An anonymized string created from <a href=\"https://arshanskaya.com/privacy-policy/\"> read more <span class=\"meta-nav\">&raquo;</span></a></p>\n",
+      "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "parent": 0,
+    "menu_order": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "template": "",
+    "meta": {
+      "jetpack_post_was_ever_published": false,
+      "footnotes": "",
+      "_links_to": "",
+      "_links_to_target": ""
+    },
+    "class_list": [
+      "post-1168",
+      "page",
+      "type-page",
+      "status-publish",
+      "hentry",
+      "author-marat"
+    ],
+    "jetpack_shortlink": "https://wp.me/P43mn0-iQ",
+    "jetpack_sharing_enabled": true,
+    "_links": {
+      "self": [
+        {
+          "href": "https://arshanskaya.com/wp-json/wp/v2/pages/1168",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://arshanskaya.com/wp-json/wp/v2/pages"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://arshanskaya.com/wp-json/wp/v2/types/page"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://arshanskaya.com/wp-json/wp/v2/users/1"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://arshanskaya.com/wp-json/wp/v2/comments?post=1168"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 1,
+          "href": "https://arshanskaya.com/wp-json/wp/v2/pages/1168/revisions"
+        }
+      ],
+      "predecessor-version": [
+        {
+          "id": 1170,
+          "href": "https://arshanskaya.com/wp-json/wp/v2/pages/1168/revisions/1170"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://arshanskaya.com/wp-json/wp/v2/media?parent=1168"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 625,
+    "date": "2013-11-11T23:27:36",
+    "date_gmt": "2013-11-11T22:27:36",
+    "guid": {
+      "rendered": "https://arshanskaya.com/?page_id=625"
+    },
+    "modified": "2014-03-24T12:08:45",
+    "modified_gmt": "2014-03-24T11:08:45",
+    "slug": "drawings",
+    "status": "publish",
+    "type": "page",
+    "link": "https://arshanskaya.com/drawings/",
+    "title": {
+      "rendered": "Drawings"
+    },
+    "content": {
+      "rendered": "<div>\n<p>\n\t\t<style type=\"text/css\">\n\t\t\t#gallery-1 {\n\t\t\t\tmargin: auto;\n\t\t\t}\n\t\t\t#gallery-1 .gallery-item {\n\t\t\t\tfloat: left;\n\t\t\t\tmargin-top: 10px;\n\t\t\t\ttext-align: center;\n\t\t\t\twidth: 25%;\n\t\t\t}\n\t\t\t#gallery-1 img {\n\t\t\t\tborder: 2px solid #cfcfcf;\n\t\t\t}\n\t\t\t#gallery-1 .gallery-caption {\n\t\t\t\tmargin-left: 0;\n\t\t\t}\n\t\t\t/* see gallery_shortcode() in wp-includes/media.php */\n\t\t</style>\n\t\t<div id='gallery-1' class='gallery galleryid-625 gallery-columns-4 gallery-size-thumbnail'><dl class='gallery-item'>\n\t\t\t<dt class='gallery-icon landscape'>\n\t\t\t\t<a href='https://arshanskaya.com/wp-content/uploads/2013/11/DSC_0004contrast72-25.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"150\" height=\"150\" src=\"https://arshanskaya.com/wp-content/uploads/2013/11/DSC_0004contrast72-25-150x150.jpg\" class=\"attachment-thumbnail size-thumbnail\" alt=\"Connections. Ink on paper, 30x30 cm\" aria-describedby=\"gallery-1-1033\" srcset=\"https://arshanskaya.com/wp-content/uploads/2013/11/DSC_0004contrast72-25-150x150.jpg 150w, https://arshanskaya.com/wp-content/uploads/2013/11/DSC_0004contrast72-25-300x300.jpg 300w, https://arshanskaya.com/wp-content/uploads/2013/11/DSC_0004contrast72-25-622x620.jpg 622w, https://arshanskaya.com/wp-content/uploads/2013/11/DSC_0004contrast72-25.jpg 709w\" sizes=\"auto, (max-width: 150px) 100vw, 150px\" /></a>\n\t\t\t</dt>\n\t\t\t\t<dd class='wp-caption-text gallery-caption' id='gallery-1-1033'>\n\t\t\t\tConnections. Ink on paper, 30&#215;30 cm\n\t\t\t\t</dd></dl><dl class='gallery-item'>\n\t\t\t<dt class='gallery-icon landscape'>\n\t\t\t\t<a href='https://arshanskaya.com/wp-content/uploads/2013/05/Blue-spiral72.png'><img loading=\"lazy\" decoding=\"async\" width=\"150\" height=\"150\" src=\"https://arshanskaya.com/wp-content/uploads/2013/05/Blue-spiral72-150x150.png\" class=\"attachment-thumbnail size-thumbnail\" alt=\"Blue spiral. Ink on paper, 30x30 cm\" aria-describedby=\"gallery-1-518\" srcset=\"https://arshanskaya.com/wp-content/uploads/2013/05/Blue-spiral72-150x150.png 150w, https://arshanskaya.com/wp-content/uploads/2013/05/Blue-spiral72-300x300.png 300w, https://arshanskaya.com/wp-content/uploads/2013/05/Blue-spiral72-620x620.png 620w, https://arshanskaya.com/wp-content/uploads/2013/05/Blue-spiral72.png 840w\" sizes=\"auto, (max-width: 150px) 100vw, 150px\" /></a>\n\t\t\t</dt>\n\t\t\t\t<dd class='wp-caption-text gallery-caption' id='gallery-1-518'>\n\t\t\t\tBlue spiral. Ink on paper, 30&#215;30 cm\n\t\t\t\t</dd></dl><dl class='gallery-item'>\n\t\t\t<dt class='gallery-icon landscape'>\n\t\t\t\t<a href='https://arshanskaya.com/wp-content/uploads/2013/05/Dark-flow72-40.png'><img loading=\"lazy\" decoding=\"async\" width=\"150\" height=\"150\" src=\"https://arshanskaya.com/wp-content/uploads/2013/05/Dark-flow72-40-150x150.png\" class=\"attachment-thumbnail size-thumbnail\" alt=\"Dark flow. Ink on paper, 10x15 cm\" aria-describedby=\"gallery-1-510\" /></a>\n\t\t\t</dt>\n\t\t\t\t<dd class='wp-caption-text gallery-caption' id='gallery-1-510'>\n\t\t\t\tDark flow. Ink on paper, 10&#215;15 cm\n\t\t\t\t</dd></dl><dl class='gallery-item'>\n\t\t\t<dt class='gallery-icon portrait'>\n\t\t\t\t<a href='https://arshanskaya.com/wp-content/uploads/2014/03/Dry-tree_sign.png'><img loading=\"lazy\" decoding=\"async\" width=\"150\" height=\"150\" src=\"https://arshanskaya.com/wp-content/uploads/2014/03/Dry-tree_sign-150x150.png\" class=\"attachment-thumbnail size-thumbnail\" alt=\"Dry Tree. Ink on paper. ca 40 x 30 cm\" aria-describedby=\"gallery-1-709\" /></a>\n\t\t\t</dt>\n\t\t\t\t<dd class='wp-caption-text gallery-caption' id='gallery-1-709'>\n\t\t\t\tDry Tree. Ink on paper. ca 40 x 30 cm\n\t\t\t\t</dd></dl><br style=\"clear: both\" /><dl class='gallery-item'>\n\t\t\t<dt class='gallery-icon portrait'>\n\t\t\t\t<a href='https://arshanskaya.com/wp-content/uploads/2012/08/street-away-bw.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"150\" height=\"150\" src=\"https://arshanskaya.com/wp-content/uploads/2012/08/street-away-bw-150x150.jpg\" class=\"attachment-thumbnail size-thumbnail\" alt=\"Street view. ink on paper, 100x70 cm\" aria-describedby=\"gallery-1-144\" /></a>\n\t\t\t</dt>\n\t\t\t\t<dd class='wp-caption-text gallery-caption' id='gallery-1-144'>\n\t\t\t\tStreet view. ink on paper, 100&#215;70 cm\n\t\t\t\t</dd></dl><dl class='gallery-item'>\n\t\t\t<dt class='gallery-icon portrait'>\n\t\t\t\t<a href='https://arshanskaya.com/wp-content/uploads/2013/05/10-tree-print.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"150\" height=\"150\" src=\"https://arshanskaya.com/wp-content/uploads/2013/05/10-tree-print-150x150.jpg\" class=\"attachment-thumbnail size-thumbnail\" alt=\"Tree. Ink on paper, 20x20 cm\" aria-describedby=\"gallery-1-526\" /></a>\n\t\t\t</dt>\n\t\t\t\t<dd class='wp-caption-text gallery-caption' id='gallery-1-526'>\n\t\t\t\tTree. Ink on paper, 20&#215;20 cm\n\t\t\t\t</dd></dl><dl class='gallery-item'>\n\t\t\t<dt class='gallery-icon portrait'>\n\t\t\t\t<a href='https://arshanskaya.com/wp-content/uploads/2013/05/30-beoordeling-2.2-print-13.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"150\" height=\"150\" src=\"https://arshanskaya.com/wp-content/uploads/2013/05/30-beoordeling-2.2-print-13-150x150.jpg\" class=\"attachment-thumbnail size-thumbnail\" alt=\"Ophelia. Pastel on paper, 200x150 cm\" aria-describedby=\"gallery-1-536\" /></a>\n\t\t\t</dt>\n\t\t\t\t<dd class='wp-caption-text gallery-caption' id='gallery-1-536'>\n\t\t\t\tOphelia. Pastel on paper, 200&#215;150 cm\n\t\t\t\t</dd></dl>\n\t\t\t<br style='clear: both' />\n\t\t</div>\n</p>\n</div>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "",
+      "protected": false
+    },
+    "author": 2,
+    "featured_media": 0,
+    "parent": 0,
+    "menu_order": 0,
+    "comment_status": "closed",
+    "ping_status": "open",
+    "template": "",
+    "meta": {
+      "jetpack_post_was_ever_published": false,
+      "footnotes": "",
+      "_links_to": "",
+      "_links_to_target": ""
+    },
+    "class_list": [
+      "post-625",
+      "page",
+      "type-page",
+      "status-publish",
+      "hentry",
+      "author-alexandra"
+    ],
+    "jetpack_shortlink": "https://wp.me/P43mn0-a5",
+    "jetpack_sharing_enabled": true,
+    "_links": {
+      "self": [
+        {
+          "href": "https://arshanskaya.com/wp-json/wp/v2/pages/625",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://arshanskaya.com/wp-json/wp/v2/pages"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://arshanskaya.com/wp-json/wp/v2/types/page"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://arshanskaya.com/wp-json/wp/v2/users/2"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://arshanskaya.com/wp-json/wp/v2/comments?post=625"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 3,
+          "href": "https://arshanskaya.com/wp-json/wp/v2/pages/625/revisions"
+        }
+      ],
+      "predecessor-version": [
+        {
+          "id": 634,
+          "href": "https://arshanskaya.com/wp-json/wp/v2/pages/625/revisions/634"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://arshanskaya.com/wp-json/wp/v2/media?parent=625"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 591,
+    "date": "2013-10-28T20:50:31",
+    "date_gmt": "2013-10-28T19:50:31",
+    "guid": {
+      "rendered": "https://arshanskaya.com/?page_id=591"
+    },
+    "modified": "2016-10-15T13:06:48",
+    "modified_gmt": "2016-10-15T12:06:48",
+    "slug": "paintings",
+    "status": "publish",
+    "type": "page",
+    "link": "https://arshanskaya.com/paintings/",
+    "title": {
+      "rendered": "Paintings"
+    },
+    "content": {
+      "rendered": "<div>\n<p>\n\t\t<style type=\"text/css\">\n\t\t\t#gallery-2 {\n\t\t\t\tmargin: auto;\n\t\t\t}\n\t\t\t#gallery-2 .gallery-item {\n\t\t\t\tfloat: left;\n\t\t\t\tmargin-top: 10px;\n\t\t\t\ttext-align: center;\n\t\t\t\twidth: 25%;\n\t\t\t}\n\t\t\t#gallery-2 img {\n\t\t\t\tborder: 2px solid #cfcfcf;\n\t\t\t}\n\t\t\t#gallery-2 .gallery-caption {\n\t\t\t\tmargin-left: 0;\n\t\t\t}\n\t\t\t/* see gallery_shortcode() in wp-includes/media.php */\n\t\t</style>\n\t\t<div id='gallery-2' class='gallery galleryid-591 gallery-columns-4 gallery-size-thumbnail'><dl class='gallery-item'>\n\t\t\t<dt class='gallery-icon landscape'>\n\t\t\t\t<a href='https://arshanskaya.com/wp-content/uploads/2019/05/Pixels-25-72.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"150\" height=\"150\" src=\"https://arshanskaya.com/wp-content/uploads/2019/05/Pixels-25-72-150x150.jpg\" class=\"attachment-thumbnail size-thumbnail\" alt=\"\" aria-describedby=\"gallery-2-1187\" srcset=\"https://arshanskaya.com/wp-content/uploads/2019/05/Pixels-25-72-150x150.jpg 150w, https://arshanskaya.com/wp-content/uploads/2019/05/Pixels-25-72-300x300.jpg 300w, https://arshanskaya.com/wp-content/uploads/2019/05/Pixels-25-72.jpg 567w\" sizes=\"auto, (max-width: 150px) 100vw, 150px\" /></a>\n\t\t\t</dt>\n\t\t\t\t<dd class='wp-caption-text gallery-caption' id='gallery-2-1187'>\n\t\t\t\tPixels. Oil on linen, 100&#215;100 cm\n\t\t\t\t</dd></dl><dl class='gallery-item'>\n\t\t\t<dt class='gallery-icon portrait'>\n\t\t\t\t<a href='https://arshanskaya.com/wp-content/uploads/2025/08/Pixel-8.4-scaled.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"150\" height=\"150\" src=\"https://arshanskaya.com/wp-content/uploads/2025/08/Pixel-8.4-150x150.jpg\" class=\"attachment-thumbnail size-thumbnail\" alt=\"\" srcset=\"https://arshanskaya.com/wp-content/uploads/2025/08/Pixel-8.4-150x150.jpg 150w, https://arshanskaya.com/wp-content/uploads/2025/08/Pixel-8.4-300x300.jpg 300w, https://arshanskaya.com/wp-content/uploads/2025/08/Pixel-8.4-619x620.jpg 619w, https://arshanskaya.com/wp-content/uploads/2025/08/Pixel-8.4-768x769.jpg 768w, https://arshanskaya.com/wp-content/uploads/2025/08/Pixel-8.4-1534x1536.jpg 1534w, https://arshanskaya.com/wp-content/uploads/2025/08/Pixel-8.4-2046x2048.jpg 2046w\" sizes=\"auto, (max-width: 150px) 100vw, 150px\" /></a>\n\t\t\t</dt></dl><dl class='gallery-item'>\n\t\t\t<dt class='gallery-icon portrait'>\n\t\t\t\t<a href='https://arshanskaya.com/wp-content/uploads/2012/07/card01.png'><img loading=\"lazy\" decoding=\"async\" width=\"150\" height=\"150\" src=\"https://arshanskaya.com/wp-content/uploads/2012/07/card01-150x150.png\" class=\"attachment-thumbnail size-thumbnail\" alt=\"Nine oil paintings on canvas. 40x40x3 cm each.\" aria-describedby=\"gallery-2-369\" /></a>\n\t\t\t</dt>\n\t\t\t\t<dd class='wp-caption-text gallery-caption' id='gallery-2-369'>\n\t\t\t\tNine oil paintings on canvas. 40x40x3 cm each.\n\t\t\t\t</dd></dl><dl class='gallery-item'>\n\t\t\t<dt class='gallery-icon landscape'>\n\t\t\t\t<a href='https://arshanskaya.com/wp-content/uploads/2013/10/Hidden-Perspective-72-25-text.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"150\" height=\"150\" src=\"https://arshanskaya.com/wp-content/uploads/2013/10/Hidden-Perspective-72-25-text-150x150.jpg\" class=\"attachment-thumbnail size-thumbnail\" alt=\"\" aria-describedby=\"gallery-2-1126\" srcset=\"https://arshanskaya.com/wp-content/uploads/2013/10/Hidden-Perspective-72-25-text-150x150.jpg 150w, https://arshanskaya.com/wp-content/uploads/2013/10/Hidden-Perspective-72-25-text-300x300.jpg 300w, https://arshanskaya.com/wp-content/uploads/2013/10/Hidden-Perspective-72-25-text-620x620.jpg 620w, https://arshanskaya.com/wp-content/uploads/2013/10/Hidden-Perspective-72-25-text.jpg 709w\" sizes=\"auto, (max-width: 150px) 100vw, 150px\" /></a>\n\t\t\t</dt>\n\t\t\t\t<dd class='wp-caption-text gallery-caption' id='gallery-2-1126'>\n\t\t\t\tHidden Perspective. Oil on linen, 100&#215;100 cm\n\t\t\t\t</dd></dl><br style=\"clear: both\" /><dl class='gallery-item'>\n\t\t\t<dt class='gallery-icon landscape'>\n\t\t\t\t<a href='https://arshanskaya.com/wp-content/uploads/2014/03/DSC_072572-20.png'><img loading=\"lazy\" decoding=\"async\" width=\"150\" height=\"150\" src=\"https://arshanskaya.com/wp-content/uploads/2014/03/DSC_072572-20-150x150.png\" class=\"attachment-thumbnail size-thumbnail\" alt=\"Reflection 16. Oil on canvas. 40×40x3 cm\" aria-describedby=\"gallery-2-739\" srcset=\"https://arshanskaya.com/wp-content/uploads/2014/03/DSC_072572-20-150x150.png 150w, https://arshanskaya.com/wp-content/uploads/2014/03/DSC_072572-20-300x300.png 300w, https://arshanskaya.com/wp-content/uploads/2014/03/DSC_072572-20.png 567w\" sizes=\"auto, (max-width: 150px) 100vw, 150px\" /></a>\n\t\t\t</dt>\n\t\t\t\t<dd class='wp-caption-text gallery-caption' id='gallery-2-739'>\n\t\t\t\tReflection 16. Oil on canvas. 40×40&#215;3 cm\n\t\t\t\t</dd></dl><dl class='gallery-item'>\n\t\t\t<dt class='gallery-icon landscape'>\n\t\t\t\t<a href='https://arshanskaya.com/wp-content/uploads/2013/10/Aspirations-72-25-text.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"150\" height=\"150\" src=\"https://arshanskaya.com/wp-content/uploads/2013/10/Aspirations-72-25-text-150x150.jpg\" class=\"attachment-thumbnail size-thumbnail\" alt=\"\" aria-describedby=\"gallery-2-1125\" srcset=\"https://arshanskaya.com/wp-content/uploads/2013/10/Aspirations-72-25-text-150x150.jpg 150w, https://arshanskaya.com/wp-content/uploads/2013/10/Aspirations-72-25-text-300x300.jpg 300w, https://arshanskaya.com/wp-content/uploads/2013/10/Aspirations-72-25-text-621x620.jpg 621w, https://arshanskaya.com/wp-content/uploads/2013/10/Aspirations-72-25-text.jpg 709w\" sizes=\"auto, (max-width: 150px) 100vw, 150px\" /></a>\n\t\t\t</dt>\n\t\t\t\t<dd class='wp-caption-text gallery-caption' id='gallery-2-1125'>\n\t\t\t\tAspirations. Oil on linen, 100&#215;100 cm.\n\t\t\t\t</dd></dl><dl class='gallery-item'>\n\t\t\t<dt class='gallery-icon landscape'>\n\t\t\t\t<a href='https://arshanskaya.com/wp-content/uploads/2014/03/DSC_071820-72.png'><img loading=\"lazy\" decoding=\"async\" width=\"150\" height=\"150\" src=\"https://arshanskaya.com/wp-content/uploads/2014/03/DSC_071820-72-150x150.png\" class=\"attachment-thumbnail size-thumbnail\" alt=\"Reflection 15. Oil on canvas. 40×40x3 cm\" aria-describedby=\"gallery-2-730\" srcset=\"https://arshanskaya.com/wp-content/uploads/2014/03/DSC_071820-72-150x150.png 150w, https://arshanskaya.com/wp-content/uploads/2014/03/DSC_071820-72-300x300.png 300w, https://arshanskaya.com/wp-content/uploads/2014/03/DSC_071820-72.png 567w\" sizes=\"auto, (max-width: 150px) 100vw, 150px\" /></a>\n\t\t\t</dt>\n\t\t\t\t<dd class='wp-caption-text gallery-caption' id='gallery-2-730'>\n\t\t\t\tReflection 15. Oil on canvas. 40×40&#215;3 cm\n\t\t\t\t</dd></dl><dl class='gallery-item'>\n\t\t\t<dt class='gallery-icon portrait'>\n\t\t\t\t<a href='https://arshanskaya.com/wp-content/uploads/2013/10/Tears-72-29-text.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"150\" height=\"150\" src=\"https://arshanskaya.com/wp-content/uploads/2013/10/Tears-72-29-text-150x150.jpg\" class=\"attachment-thumbnail size-thumbnail\" alt=\"\" aria-describedby=\"gallery-2-1124\" /></a>\n\t\t\t</dt>\n\t\t\t\t<dd class='wp-caption-text gallery-caption' id='gallery-2-1124'>\n\t\t\t\tWater. Oil on linen, 60&#215;60 cm, triptych.\n\t\t\t\t</dd></dl><br style=\"clear: both\" /><dl class='gallery-item'>\n\t\t\t<dt class='gallery-icon landscape'>\n\t\t\t\t<a href='https://arshanskaya.com/wp-content/uploads/2014/02/DSC_0098.png'><img loading=\"lazy\" decoding=\"async\" width=\"150\" height=\"150\" src=\"https://arshanskaya.com/wp-content/uploads/2014/02/DSC_0098-150x150.png\" class=\"attachment-thumbnail size-thumbnail\" alt=\"Reflection 14. Oil on canvas. 40×40x3 cm\" aria-describedby=\"gallery-2-682\" srcset=\"https://arshanskaya.com/wp-content/uploads/2014/02/DSC_0098-150x150.png 150w, https://arshanskaya.com/wp-content/uploads/2014/02/DSC_0098-300x300.png 300w, https://arshanskaya.com/wp-content/uploads/2014/02/DSC_0098.png 567w\" sizes=\"auto, (max-width: 150px) 100vw, 150px\" /></a>\n\t\t\t</dt>\n\t\t\t\t<dd class='wp-caption-text gallery-caption' id='gallery-2-682'>\n\t\t\t\tReflection 14. Oil on canvas. 40×40&#215;3 cm\n\t\t\t\t</dd></dl><dl class='gallery-item'>\n\t\t\t<dt class='gallery-icon landscape'>\n\t\t\t\t<a href='https://arshanskaya.com/wp-content/uploads/2013/10/My-City-72-25-text.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"150\" height=\"150\" src=\"https://arshanskaya.com/wp-content/uploads/2013/10/My-City-72-25-text-150x150.jpg\" class=\"attachment-thumbnail size-thumbnail\" alt=\"\" aria-describedby=\"gallery-2-1123\" srcset=\"https://arshanskaya.com/wp-content/uploads/2013/10/My-City-72-25-text-150x150.jpg 150w, https://arshanskaya.com/wp-content/uploads/2013/10/My-City-72-25-text-300x300.jpg 300w, https://arshanskaya.com/wp-content/uploads/2013/10/My-City-72-25-text-623x620.jpg 623w, https://arshanskaya.com/wp-content/uploads/2013/10/My-City-72-25-text.jpg 709w\" sizes=\"auto, (max-width: 150px) 100vw, 150px\" /></a>\n\t\t\t</dt>\n\t\t\t\t<dd class='wp-caption-text gallery-caption' id='gallery-2-1123'>\n\t\t\t\tMy City. Oil on canvas, 100&#215;100 cm.\n\t\t\t\t</dd></dl><dl class='gallery-item'>\n\t\t\t<dt class='gallery-icon landscape'>\n\t\t\t\t<a href='https://arshanskaya.com/wp-content/uploads/2013/10/DSC_051372-20.png'><img loading=\"lazy\" decoding=\"async\" width=\"150\" height=\"150\" src=\"https://arshanskaya.com/wp-content/uploads/2013/10/DSC_051372-20-150x150.png\" class=\"attachment-thumbnail size-thumbnail\" alt=\"Reflection 13. Oil on canvas,40x40x3 cm\" aria-describedby=\"gallery-2-850\" srcset=\"https://arshanskaya.com/wp-content/uploads/2013/10/DSC_051372-20-150x150.png 150w, https://arshanskaya.com/wp-content/uploads/2013/10/DSC_051372-20-300x298.png 300w, https://arshanskaya.com/wp-content/uploads/2013/10/DSC_051372-20.png 567w\" sizes=\"auto, (max-width: 150px) 100vw, 150px\" /></a>\n\t\t\t</dt>\n\t\t\t\t<dd class='wp-caption-text gallery-caption' id='gallery-2-850'>\n\t\t\t\tReflection 13. Oil on canvas,40x40x3 cm\n\t\t\t\t</dd></dl><dl class='gallery-item'>\n\t\t\t<dt class='gallery-icon landscape'>\n\t\t\t\t<a href='https://arshanskaya.com/wp-content/uploads/2016/10/Fleeting-Dance-72-30.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"150\" height=\"150\" src=\"https://arshanskaya.com/wp-content/uploads/2016/10/Fleeting-Dance-72-30-150x150.jpg\" class=\"attachment-thumbnail size-thumbnail\" alt=\"Fleeting Dance. Oil on linen, 87x124 cm.\" aria-describedby=\"gallery-2-1085\" /></a>\n\t\t\t</dt>\n\t\t\t\t<dd class='wp-caption-text gallery-caption' id='gallery-2-1085'>\n\t\t\t\tFleeting Dance. Oil on linen, 87&#215;124 cm.\n\t\t\t\t</dd></dl><br style=\"clear: both\" /><dl class='gallery-item'>\n\t\t\t<dt class='gallery-icon landscape'>\n\t\t\t\t<a href='https://arshanskaya.com/wp-content/uploads/2012/08/reflection-12.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"150\" height=\"150\" src=\"https://arshanskaya.com/wp-content/uploads/2012/08/reflection-12-150x150.jpg\" class=\"attachment-thumbnail size-thumbnail\" alt=\"Reflection 12. Oil on canvas,40x40x3 cm\" aria-describedby=\"gallery-2-62\" srcset=\"https://arshanskaya.com/wp-content/uploads/2012/08/reflection-12-150x150.jpg 150w, https://arshanskaya.com/wp-content/uploads/2012/08/reflection-12-300x298.jpg 300w, https://arshanskaya.com/wp-content/uploads/2012/08/reflection-12-1024x1017.jpg 1024w, https://arshanskaya.com/wp-content/uploads/2012/08/reflection-12-301x300.jpg 301w, https://arshanskaya.com/wp-content/uploads/2012/08/reflection-12.jpg 2000w\" sizes=\"auto, (max-width: 150px) 100vw, 150px\" /></a>\n\t\t\t</dt>\n\t\t\t\t<dd class='wp-caption-text gallery-caption' id='gallery-2-62'>\n\t\t\t\tReflection 12. Oil on canvas,40x40x3 cm\n\t\t\t\t</dd></dl><dl class='gallery-item'>\n\t\t\t<dt class='gallery-icon landscape'>\n\t\t\t\t<a href='https://arshanskaya.com/wp-content/uploads/2013/10/Sound-of-Loss-72-25-text.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"150\" height=\"150\" src=\"https://arshanskaya.com/wp-content/uploads/2013/10/Sound-of-Loss-72-25-text-150x150.jpg\" class=\"attachment-thumbnail size-thumbnail\" alt=\"\" aria-describedby=\"gallery-2-1121\" srcset=\"https://arshanskaya.com/wp-content/uploads/2013/10/Sound-of-Loss-72-25-text-150x150.jpg 150w, https://arshanskaya.com/wp-content/uploads/2013/10/Sound-of-Loss-72-25-text-300x300.jpg 300w, https://arshanskaya.com/wp-content/uploads/2013/10/Sound-of-Loss-72-25-text-620x620.jpg 620w, https://arshanskaya.com/wp-content/uploads/2013/10/Sound-of-Loss-72-25-text.jpg 709w\" sizes=\"auto, (max-width: 150px) 100vw, 150px\" /></a>\n\t\t\t</dt>\n\t\t\t\t<dd class='wp-caption-text gallery-caption' id='gallery-2-1121'>\n\t\t\t\tSound of Loss.\r\nOil on linen, 60&#215;60 cm.\n\t\t\t\t</dd></dl><dl class='gallery-item'>\n\t\t\t<dt class='gallery-icon landscape'>\n\t\t\t\t<a href='https://arshanskaya.com/wp-content/uploads/2012/08/reflection-11.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"150\" height=\"150\" src=\"https://arshanskaya.com/wp-content/uploads/2012/08/reflection-11-150x150.jpg\" class=\"attachment-thumbnail size-thumbnail\" alt=\"Reflection 11. Oil on canvas,40x40x3 cm\" aria-describedby=\"gallery-2-61\" srcset=\"https://arshanskaya.com/wp-content/uploads/2012/08/reflection-11-150x150.jpg 150w, https://arshanskaya.com/wp-content/uploads/2012/08/reflection-11-300x298.jpg 300w, https://arshanskaya.com/wp-content/uploads/2012/08/reflection-11-1024x1018.jpg 1024w, https://arshanskaya.com/wp-content/uploads/2012/08/reflection-11-301x300.jpg 301w, https://arshanskaya.com/wp-content/uploads/2012/08/reflection-11.jpg 2000w\" sizes=\"auto, (max-width: 150px) 100vw, 150px\" /></a>\n\t\t\t</dt>\n\t\t\t\t<dd class='wp-caption-text gallery-caption' id='gallery-2-61'>\n\t\t\t\tReflection 11. Oil on canvas,40x40x3 cm\n\t\t\t\t</dd></dl><dl class='gallery-item'>\n\t\t\t<dt class='gallery-icon landscape'>\n\t\t\t\t<a href='https://arshanskaya.com/wp-content/uploads/2016/04/IMG_541072-20.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"150\" height=\"150\" src=\"https://arshanskaya.com/wp-content/uploads/2016/04/IMG_541072-20-150x150.jpg\" class=\"attachment-thumbnail size-thumbnail\" alt=\"\" aria-describedby=\"gallery-2-1053\" srcset=\"https://arshanskaya.com/wp-content/uploads/2016/04/IMG_541072-20-150x150.jpg 150w, https://arshanskaya.com/wp-content/uploads/2016/04/IMG_541072-20-300x300.jpg 300w, https://arshanskaya.com/wp-content/uploads/2016/04/IMG_541072-20.jpg 567w\" sizes=\"auto, (max-width: 150px) 100vw, 150px\" /></a>\n\t\t\t</dt>\n\t\t\t\t<dd class='wp-caption-text gallery-caption' id='gallery-2-1053'>\n\t\t\t\tTumbleweed, oil on linen, 100&#215;100 cm\n\t\t\t\t</dd></dl><br style=\"clear: both\" /><dl class='gallery-item'>\n\t\t\t<dt class='gallery-icon landscape'>\n\t\t\t\t<a href='https://arshanskaya.com/wp-content/uploads/2012/08/reflection-10.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"150\" height=\"150\" src=\"https://arshanskaya.com/wp-content/uploads/2012/08/reflection-10-150x150.jpg\" class=\"attachment-thumbnail size-thumbnail\" alt=\"Reflection 10. Oil on canvas,40x40x3 cm\" aria-describedby=\"gallery-2-60\" srcset=\"https://arshanskaya.com/wp-content/uploads/2012/08/reflection-10-150x150.jpg 150w, https://arshanskaya.com/wp-content/uploads/2012/08/reflection-10-300x297.jpg 300w, https://arshanskaya.com/wp-content/uploads/2012/08/reflection-10-1024x1015.jpg 1024w, https://arshanskaya.com/wp-content/uploads/2012/08/reflection-10-302x300.jpg 302w, https://arshanskaya.com/wp-content/uploads/2012/08/reflection-10.jpg 2000w\" sizes=\"auto, (max-width: 150px) 100vw, 150px\" /></a>\n\t\t\t</dt>\n\t\t\t\t<dd class='wp-caption-text gallery-caption' id='gallery-2-60'>\n\t\t\t\tReflection 10. Oil on canvas,40x40x3 cm\n\t\t\t\t</dd></dl><dl class='gallery-item'>\n\t\t\t<dt class='gallery-icon landscape'>\n\t\t\t\t<a href='https://arshanskaya.com/wp-content/uploads/2015/07/DSC_001272-20-lighter.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"150\" height=\"150\" src=\"https://arshanskaya.com/wp-content/uploads/2015/07/DSC_001272-20-lighter-150x150.jpg\" class=\"attachment-thumbnail size-thumbnail\" alt=\"Light Shift. Oil on linen, 60x60 cm\" aria-describedby=\"gallery-2-957\" srcset=\"https://arshanskaya.com/wp-content/uploads/2015/07/DSC_001272-20-lighter-150x150.jpg 150w, https://arshanskaya.com/wp-content/uploads/2015/07/DSC_001272-20-lighter-300x300.jpg 300w, https://arshanskaya.com/wp-content/uploads/2015/07/DSC_001272-20-lighter.jpg 567w\" sizes=\"auto, (max-width: 150px) 100vw, 150px\" /></a>\n\t\t\t</dt>\n\t\t\t\t<dd class='wp-caption-text gallery-caption' id='gallery-2-957'>\n\t\t\t\tLight Shift. Oil on linen, 60&#215;60 cm\n\t\t\t\t</dd></dl><dl class='gallery-item'>\n\t\t\t<dt class='gallery-icon landscape'>\n\t\t\t\t<a href='https://arshanskaya.com/wp-content/uploads/2012/08/reflection-09.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"150\" height=\"150\" src=\"https://arshanskaya.com/wp-content/uploads/2012/08/reflection-09-150x150.jpg\" class=\"attachment-thumbnail size-thumbnail\" alt=\"Reflection 09. Oil on canvas, 40x40x3 cm\" aria-describedby=\"gallery-2-59\" srcset=\"https://arshanskaya.com/wp-content/uploads/2012/08/reflection-09-150x150.jpg 150w, https://arshanskaya.com/wp-content/uploads/2012/08/reflection-09-300x297.jpg 300w, https://arshanskaya.com/wp-content/uploads/2012/08/reflection-09-1024x1016.jpg 1024w, https://arshanskaya.com/wp-content/uploads/2012/08/reflection-09-302x300.jpg 302w, https://arshanskaya.com/wp-content/uploads/2012/08/reflection-09.jpg 2000w\" sizes=\"auto, (max-width: 150px) 100vw, 150px\" /></a>\n\t\t\t</dt>\n\t\t\t\t<dd class='wp-caption-text gallery-caption' id='gallery-2-59'>\n\t\t\t\tReflection 09. Oil on canvas, 40x40x3 cm\n\t\t\t\t</dd></dl><dl class='gallery-item'>\n\t\t\t<dt class='gallery-icon landscape'>\n\t\t\t\t<a href='https://arshanskaya.com/wp-content/uploads/2016/10/Meeting-72-25-new.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"150\" height=\"150\" src=\"https://arshanskaya.com/wp-content/uploads/2016/10/Meeting-72-25-new-150x150.jpg\" class=\"attachment-thumbnail size-thumbnail\" alt=\"Meeting. Oil on linen, 70x70 cm.\" aria-describedby=\"gallery-2-1078\" srcset=\"https://arshanskaya.com/wp-content/uploads/2016/10/Meeting-72-25-new-150x150.jpg 150w, https://arshanskaya.com/wp-content/uploads/2016/10/Meeting-72-25-new-300x300.jpg 300w, https://arshanskaya.com/wp-content/uploads/2016/10/Meeting-72-25-new-623x620.jpg 623w, https://arshanskaya.com/wp-content/uploads/2016/10/Meeting-72-25-new.jpg 712w\" sizes=\"auto, (max-width: 150px) 100vw, 150px\" /></a>\n\t\t\t</dt>\n\t\t\t\t<dd class='wp-caption-text gallery-caption' id='gallery-2-1078'>\n\t\t\t\tMeeting. Oil on linen, 70&#215;70 cm.\n\t\t\t\t</dd></dl><br style=\"clear: both\" /><dl class='gallery-item'>\n\t\t\t<dt class='gallery-icon landscape'>\n\t\t\t\t<a href='https://arshanskaya.com/wp-content/uploads/2012/08/reflection-08.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"150\" height=\"150\" src=\"https://arshanskaya.com/wp-content/uploads/2012/08/reflection-08-150x150.jpg\" class=\"attachment-thumbnail size-thumbnail\" alt=\"Reflection 08. Oil on canvas, 40x40x3 cm\" aria-describedby=\"gallery-2-58\" srcset=\"https://arshanskaya.com/wp-content/uploads/2012/08/reflection-08-150x150.jpg 150w, https://arshanskaya.com/wp-content/uploads/2012/08/reflection-08-300x297.jpg 300w, https://arshanskaya.com/wp-content/uploads/2012/08/reflection-08-1024x1015.jpg 1024w, https://arshanskaya.com/wp-content/uploads/2012/08/reflection-08-302x300.jpg 302w, https://arshanskaya.com/wp-content/uploads/2012/08/reflection-08.jpg 2000w\" sizes=\"auto, (max-width: 150px) 100vw, 150px\" /></a>\n\t\t\t</dt>\n\t\t\t\t<dd class='wp-caption-text gallery-caption' id='gallery-2-58'>\n\t\t\t\tReflection 08. Oil on canvas, 40x40x3 cm\n\t\t\t\t</dd></dl><dl class='gallery-item'>\n\t\t\t<dt class='gallery-icon portrait'>\n\t\t\t\t<a href='https://arshanskaya.com/wp-content/uploads/2015/01/DSC_084872-20lighter.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"150\" height=\"150\" src=\"https://arshanskaya.com/wp-content/uploads/2015/01/DSC_084872-20lighter-150x150.jpg\" class=\"attachment-thumbnail size-thumbnail\" alt=\"Statement. Oil on linen, 60x40 cm\" aria-describedby=\"gallery-2-926\" /></a>\n\t\t\t</dt>\n\t\t\t\t<dd class='wp-caption-text gallery-caption' id='gallery-2-926'>\n\t\t\t\tStatement. Oil on linen, 60&#215;40 cm\n\t\t\t\t</dd></dl><dl class='gallery-item'>\n\t\t\t<dt class='gallery-icon landscape'>\n\t\t\t\t<a href='https://arshanskaya.com/wp-content/uploads/2012/08/reflection-07.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"150\" height=\"150\" src=\"https://arshanskaya.com/wp-content/uploads/2012/08/reflection-07-150x150.jpg\" class=\"attachment-thumbnail size-thumbnail\" alt=\"Reflection 07. Oil on canvas, 40x40x3 cm\" aria-describedby=\"gallery-2-57\" srcset=\"https://arshanskaya.com/wp-content/uploads/2012/08/reflection-07-150x150.jpg 150w, https://arshanskaya.com/wp-content/uploads/2012/08/reflection-07-300x298.jpg 300w, https://arshanskaya.com/wp-content/uploads/2012/08/reflection-07-1024x1017.jpg 1024w, https://arshanskaya.com/wp-content/uploads/2012/08/reflection-07-301x300.jpg 301w, https://arshanskaya.com/wp-content/uploads/2012/08/reflection-07.jpg 2000w\" sizes=\"auto, (max-width: 150px) 100vw, 150px\" /></a>\n\t\t\t</dt>\n\t\t\t\t<dd class='wp-caption-text gallery-caption' id='gallery-2-57'>\n\t\t\t\tReflection 07. Oil on canvas, 40x40x3 cm\n\t\t\t\t</dd></dl><dl class='gallery-item'>\n\t\t\t<dt class='gallery-icon portrait'>\n\t\t\t\t<a href='https://arshanskaya.com/wp-content/uploads/2016/10/Acute-Insight-72-25.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"150\" height=\"150\" src=\"https://arshanskaya.com/wp-content/uploads/2016/10/Acute-Insight-72-25-150x150.jpg\" class=\"attachment-thumbnail size-thumbnail\" alt=\"Acute Insight. Oil on canvas, di 50cm.\" aria-describedby=\"gallery-2-1090\" srcset=\"https://arshanskaya.com/wp-content/uploads/2016/10/Acute-Insight-72-25-150x150.jpg 150w, https://arshanskaya.com/wp-content/uploads/2016/10/Acute-Insight-72-25-300x300.jpg 300w, https://arshanskaya.com/wp-content/uploads/2016/10/Acute-Insight-72-25-619x620.jpg 619w, https://arshanskaya.com/wp-content/uploads/2016/10/Acute-Insight-72-25.jpg 709w\" sizes=\"auto, (max-width: 150px) 100vw, 150px\" /></a>\n\t\t\t</dt>\n\t\t\t\t<dd class='wp-caption-text gallery-caption' id='gallery-2-1090'>\n\t\t\t\tAcute Insight. Oil on canvas, di 50cm.\n\t\t\t\t</dd></dl><br style=\"clear: both\" /><dl class='gallery-item'>\n\t\t\t<dt class='gallery-icon landscape'>\n\t\t\t\t<a href='https://arshanskaya.com/wp-content/uploads/2012/08/reflection-06.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"150\" height=\"150\" src=\"https://arshanskaya.com/wp-content/uploads/2012/08/reflection-06-150x150.jpg\" class=\"attachment-thumbnail size-thumbnail\" alt=\"Reflection 06. Oil on canvas, 40x40x3 cm\" aria-describedby=\"gallery-2-112\" /></a>\n\t\t\t</dt>\n\t\t\t\t<dd class='wp-caption-text gallery-caption' id='gallery-2-112'>\n\t\t\t\tReflection 06. Oil on canvas, 40x40x3 cm\n\t\t\t\t</dd></dl><dl class='gallery-item'>\n\t\t\t<dt class='gallery-icon landscape'>\n\t\t\t\t<a href='https://arshanskaya.com/wp-content/uploads/2015/07/DSC_011472-20.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"150\" height=\"150\" src=\"https://arshanskaya.com/wp-content/uploads/2015/07/DSC_011472-20-150x150.jpg\" class=\"attachment-thumbnail size-thumbnail\" alt=\"Heritage. Oil on canvas. 100×100 cm\" aria-describedby=\"gallery-2-948\" srcset=\"https://arshanskaya.com/wp-content/uploads/2015/07/DSC_011472-20-150x150.jpg 150w, https://arshanskaya.com/wp-content/uploads/2015/07/DSC_011472-20-300x300.jpg 300w, https://arshanskaya.com/wp-content/uploads/2015/07/DSC_011472-20.jpg 567w\" sizes=\"auto, (max-width: 150px) 100vw, 150px\" /></a>\n\t\t\t</dt>\n\t\t\t\t<dd class='wp-caption-text gallery-caption' id='gallery-2-948'>\n\t\t\t\tHeritage. Oil on canvas. 100×100 cm\n\t\t\t\t</dd></dl><dl class='gallery-item'>\n\t\t\t<dt class='gallery-icon landscape'>\n\t\t\t\t<a href='https://arshanskaya.com/wp-content/uploads/2012/08/reflection-05.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"150\" height=\"150\" src=\"https://arshanskaya.com/wp-content/uploads/2012/08/reflection-05-150x150.jpg\" class=\"attachment-thumbnail size-thumbnail\" alt=\"Reflection 05. Oil on canvas, 40x40x3 cm\" aria-describedby=\"gallery-2-110\" /></a>\n\t\t\t</dt>\n\t\t\t\t<dd class='wp-caption-text gallery-caption' id='gallery-2-110'>\n\t\t\t\tReflection 05. Oil on canvas, 40x40x3 cm\n\t\t\t\t</dd></dl><dl class='gallery-item'>\n\t\t\t<dt class='gallery-icon landscape'>\n\t\t\t\t<a href='https://arshanskaya.com/wp-content/uploads/2014/05/DSC_004472-20red.png'><img loading=\"lazy\" decoding=\"async\" width=\"150\" height=\"150\" src=\"https://arshanskaya.com/wp-content/uploads/2014/05/DSC_004472-20red-150x150.png\" class=\"attachment-thumbnail size-thumbnail\" alt=\"Inner World. Oil on canvas. 100×100 cm\" aria-describedby=\"gallery-2-772\" srcset=\"https://arshanskaya.com/wp-content/uploads/2014/05/DSC_004472-20red-150x150.png 150w, https://arshanskaya.com/wp-content/uploads/2014/05/DSC_004472-20red-300x297.png 300w, https://arshanskaya.com/wp-content/uploads/2014/05/DSC_004472-20red.png 567w\" sizes=\"auto, (max-width: 150px) 100vw, 150px\" /></a>\n\t\t\t</dt>\n\t\t\t\t<dd class='wp-caption-text gallery-caption' id='gallery-2-772'>\n\t\t\t\tInner World. Oil on canvas. 100×100 cm\n\t\t\t\t</dd></dl><br style=\"clear: both\" /><dl class='gallery-item'>\n\t\t\t<dt class='gallery-icon landscape'>\n\t\t\t\t<a href='https://arshanskaya.com/wp-content/uploads/2012/08/reflection-04.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"150\" height=\"150\" src=\"https://arshanskaya.com/wp-content/uploads/2012/08/reflection-04-150x150.jpg\" class=\"attachment-thumbnail size-thumbnail\" alt=\"Reflection 04. Oil on canvas, 40x40x3 cm\" aria-describedby=\"gallery-2-76\" srcset=\"https://arshanskaya.com/wp-content/uploads/2012/08/reflection-04-150x150.jpg 150w, https://arshanskaya.com/wp-content/uploads/2012/08/reflection-04-300x300.jpg 300w, https://arshanskaya.com/wp-content/uploads/2012/08/reflection-04-1024x1024.jpg 1024w, https://arshanskaya.com/wp-content/uploads/2012/08/reflection-04.jpg 2000w\" sizes=\"auto, (max-width: 150px) 100vw, 150px\" /></a>\n\t\t\t</dt>\n\t\t\t\t<dd class='wp-caption-text gallery-caption' id='gallery-2-76'>\n\t\t\t\tReflection 04. Oil on canvas, 40x40x3 cm\n\t\t\t\t</dd></dl><dl class='gallery-item'>\n\t\t\t<dt class='gallery-icon landscape'>\n\t\t\t\t<a href='https://arshanskaya.com/wp-content/uploads/2013/10/DSC_015672-20.png'><img loading=\"lazy\" decoding=\"async\" width=\"150\" height=\"150\" src=\"https://arshanskaya.com/wp-content/uploads/2013/10/DSC_015672-20-150x150.png\" class=\"attachment-thumbnail size-thumbnail\" alt=\"Revealed View. Oil on canvas, di 40 cm.\" aria-describedby=\"gallery-2-822\" srcset=\"https://arshanskaya.com/wp-content/uploads/2013/10/DSC_015672-20-150x150.png 150w, https://arshanskaya.com/wp-content/uploads/2013/10/DSC_015672-20-300x300.png 300w, https://arshanskaya.com/wp-content/uploads/2013/10/DSC_015672-20.png 567w\" sizes=\"auto, (max-width: 150px) 100vw, 150px\" /></a>\n\t\t\t</dt>\n\t\t\t\t<dd class='wp-caption-text gallery-caption' id='gallery-2-822'>\n\t\t\t\tRevealed View. Oil on canvas, di 40 cm.\n\t\t\t\t</dd></dl><dl class='gallery-item'>\n\t\t\t<dt class='gallery-icon landscape'>\n\t\t\t\t<a href='https://arshanskaya.com/wp-content/uploads/2012/08/11arshanskaya.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"150\" height=\"150\" src=\"https://arshanskaya.com/wp-content/uploads/2012/08/11arshanskaya-150x150.jpg\" class=\"attachment-thumbnail size-thumbnail\" alt=\"Reflection 03. Oil on canvas, 40x40x3 cm\" aria-describedby=\"gallery-2-41\" srcset=\"https://arshanskaya.com/wp-content/uploads/2012/08/11arshanskaya-150x150.jpg 150w, https://arshanskaya.com/wp-content/uploads/2012/08/11arshanskaya-300x297.jpg 300w, https://arshanskaya.com/wp-content/uploads/2012/08/11arshanskaya-1024x1015.jpg 1024w, https://arshanskaya.com/wp-content/uploads/2012/08/11arshanskaya-302x300.jpg 302w\" sizes=\"auto, (max-width: 150px) 100vw, 150px\" /></a>\n\t\t\t</dt>\n\t\t\t\t<dd class='wp-caption-text gallery-caption' id='gallery-2-41'>\n\t\t\t\tReflection 03. Oil on canvas, 40x40x3 cm\n\t\t\t\t</dd></dl><dl class='gallery-item'>\n\t\t\t<dt class='gallery-icon landscape'>\n\t\t\t\t<a href='https://arshanskaya.com/wp-content/uploads/2014/07/DSC_014972-20.png'><img loading=\"lazy\" decoding=\"async\" width=\"150\" height=\"150\" src=\"https://arshanskaya.com/wp-content/uploads/2014/07/DSC_014972-20-150x150.png\" class=\"attachment-thumbnail size-thumbnail\" alt=\"Open Sphere. Oil on linen. di 50 cm\" aria-describedby=\"gallery-2-815\" srcset=\"https://arshanskaya.com/wp-content/uploads/2014/07/DSC_014972-20-150x150.png 150w, https://arshanskaya.com/wp-content/uploads/2014/07/DSC_014972-20-300x300.png 300w, https://arshanskaya.com/wp-content/uploads/2014/07/DSC_014972-20.png 567w\" sizes=\"auto, (max-width: 150px) 100vw, 150px\" /></a>\n\t\t\t</dt>\n\t\t\t\t<dd class='wp-caption-text gallery-caption' id='gallery-2-815'>\n\t\t\t\tOpen Sphere. Oil on linen. di 50 cm\n\t\t\t\t</dd></dl><br style=\"clear: both\" /><dl class='gallery-item'>\n\t\t\t<dt class='gallery-icon landscape'>\n\t\t\t\t<a href='https://arshanskaya.com/wp-content/uploads/2012/08/12arshanskaya.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"150\" height=\"150\" src=\"https://arshanskaya.com/wp-content/uploads/2012/08/12arshanskaya-150x150.jpg\" class=\"attachment-thumbnail size-thumbnail\" alt=\"Reflection 02. Oil on canvas, 40x40x3 cm\" aria-describedby=\"gallery-2-42\" srcset=\"https://arshanskaya.com/wp-content/uploads/2012/08/12arshanskaya-150x150.jpg 150w, https://arshanskaya.com/wp-content/uploads/2012/08/12arshanskaya-300x297.jpg 300w, https://arshanskaya.com/wp-content/uploads/2012/08/12arshanskaya-1024x1016.jpg 1024w, https://arshanskaya.com/wp-content/uploads/2012/08/12arshanskaya-302x300.jpg 302w\" sizes=\"auto, (max-width: 150px) 100vw, 150px\" /></a>\n\t\t\t</dt>\n\t\t\t\t<dd class='wp-caption-text gallery-caption' id='gallery-2-42'>\n\t\t\t\tReflection 02. Oil on canvas, 40x40x3 cm\n\t\t\t\t</dd></dl><dl class='gallery-item'>\n\t\t\t<dt class='gallery-icon portrait'>\n\t\t\t\t<a href='https://arshanskaya.com/wp-content/uploads/2013/10/DSC_014872-20.png'><img loading=\"lazy\" decoding=\"async\" width=\"150\" height=\"150\" src=\"https://arshanskaya.com/wp-content/uploads/2013/10/DSC_014872-20-150x150.png\" class=\"attachment-thumbnail size-thumbnail\" alt=\"Circular Warmth. Oil on linen. 50×50 cm.\" aria-describedby=\"gallery-2-809\" srcset=\"https://arshanskaya.com/wp-content/uploads/2013/10/DSC_014872-20-150x150.png 150w, https://arshanskaya.com/wp-content/uploads/2013/10/DSC_014872-20-298x300.png 298w, https://arshanskaya.com/wp-content/uploads/2013/10/DSC_014872-20.png 567w\" sizes=\"auto, (max-width: 150px) 100vw, 150px\" /></a>\n\t\t\t</dt>\n\t\t\t\t<dd class='wp-caption-text gallery-caption' id='gallery-2-809'>\n\t\t\t\tCircular Warmth. Oil on linen. 50×50 cm.\n\t\t\t\t</dd></dl><dl class='gallery-item'>\n\t\t\t<dt class='gallery-icon landscape'>\n\t\t\t\t<a href='https://arshanskaya.com/wp-content/uploads/2012/08/13arshanskaya.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"150\" height=\"150\" src=\"https://arshanskaya.com/wp-content/uploads/2012/08/13arshanskaya-150x150.jpg\" class=\"attachment-thumbnail size-thumbnail\" alt=\"Reflection 01. Oil on canvas, 40x40x3 cm\" aria-describedby=\"gallery-2-43\" /></a>\n\t\t\t</dt>\n\t\t\t\t<dd class='wp-caption-text gallery-caption' id='gallery-2-43'>\n\t\t\t\tReflection 01. Oil on canvas, 40x40x3 cm\n\t\t\t\t</dd></dl><dl class='gallery-item'>\n\t\t\t<dt class='gallery-icon landscape'>\n\t\t\t\t<a href='https://arshanskaya.com/wp-content/uploads/2014/02/DSC_0101.png'><img loading=\"lazy\" decoding=\"async\" width=\"150\" height=\"150\" src=\"https://arshanskaya.com/wp-content/uploads/2014/02/DSC_0101-150x150.png\" class=\"attachment-thumbnail size-thumbnail\" alt=\"Mirror. Oil on canvas, 50x70 cm\" aria-describedby=\"gallery-2-691\" /></a>\n\t\t\t</dt>\n\t\t\t\t<dd class='wp-caption-text gallery-caption' id='gallery-2-691'>\n\t\t\t\tMirror. Oil on canvas, 50&#215;70 cm\n\t\t\t\t</dd></dl><br style=\"clear: both\" /><dl class='gallery-item'>\n\t\t\t<dt class='gallery-icon portrait'>\n\t\t\t\t<a href='https://arshanskaya.com/wp-content/uploads/2013/11/Grey-surfaces-72.png'><img loading=\"lazy\" decoding=\"async\" width=\"150\" height=\"150\" src=\"https://arshanskaya.com/wp-content/uploads/2013/11/Grey-surfaces-72-150x150.png\" class=\"attachment-thumbnail size-thumbnail\" alt=\"Grey surfaces. Oil on canvas. 30×24 cm\" aria-describedby=\"gallery-2-640\" /></a>\n\t\t\t</dt>\n\t\t\t\t<dd class='wp-caption-text gallery-caption' id='gallery-2-640'>\n\t\t\t\tGrey surfaces. Oil on canvas. 30×24 cm\n\t\t\t\t</dd></dl><dl class='gallery-item'>\n\t\t\t<dt class='gallery-icon portrait'>\n\t\t\t\t<a href='https://arshanskaya.com/wp-content/uploads/2013/11/Blue-orange-condition-72.png'><img loading=\"lazy\" decoding=\"async\" width=\"150\" height=\"150\" src=\"https://arshanskaya.com/wp-content/uploads/2013/11/Blue-orange-condition-72-150x150.png\" class=\"attachment-thumbnail size-thumbnail\" alt=\"Blue-orange. Oil on canvas. 30×24 cm\" aria-describedby=\"gallery-2-638\" /></a>\n\t\t\t</dt>\n\t\t\t\t<dd class='wp-caption-text gallery-caption' id='gallery-2-638'>\n\t\t\t\tBlue-orange. Oil on canvas. 30×24 cm\n\t\t\t\t</dd></dl><dl class='gallery-item'>\n\t\t\t<dt class='gallery-icon portrait'>\n\t\t\t\t<a href='https://arshanskaya.com/wp-content/uploads/2013/02/Exit-etude-72-24.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"150\" height=\"150\" src=\"https://arshanskaya.com/wp-content/uploads/2013/02/Exit-etude-72-24-150x150.jpg\" class=\"attachment-thumbnail size-thumbnail\" alt=\"Exit. Etude. Oil on canvas. 30×24 cm.\" aria-describedby=\"gallery-2-313\" /></a>\n\t\t\t</dt>\n\t\t\t\t<dd class='wp-caption-text gallery-caption' id='gallery-2-313'>\n\t\t\t\tExit. Etude. Oil on canvas. 30×24 cm.\n\t\t\t\t</dd></dl><dl class='gallery-item'>\n\t\t\t<dt class='gallery-icon landscape'>\n\t\t\t\t<a href='https://arshanskaya.com/wp-content/uploads/2013/10/DSC_045772-20.png'><img loading=\"lazy\" decoding=\"async\" width=\"150\" height=\"150\" src=\"https://arshanskaya.com/wp-content/uploads/2013/10/DSC_045772-20-150x150.png\" class=\"attachment-thumbnail size-thumbnail\" alt=\"Passage. Oil on canvas, 100x100 cm\" aria-describedby=\"gallery-2-808\" srcset=\"https://arshanskaya.com/wp-content/uploads/2013/10/DSC_045772-20-150x150.png 150w, https://arshanskaya.com/wp-content/uploads/2013/10/DSC_045772-20-300x300.png 300w, https://arshanskaya.com/wp-content/uploads/2013/10/DSC_045772-20.png 567w\" sizes=\"auto, (max-width: 150px) 100vw, 150px\" /></a>\n\t\t\t</dt>\n\t\t\t\t<dd class='wp-caption-text gallery-caption' id='gallery-2-808'>\n\t\t\t\tPassage. Oil on canvas, 100&#215;100 cm\n\t\t\t\t</dd></dl><br style=\"clear: both\" /><dl class='gallery-item'>\n\t\t\t<dt class='gallery-icon landscape'>\n\t\t\t\t<a href='https://arshanskaya.com/wp-content/uploads/2013/10/DSC_045272-20.png'><img loading=\"lazy\" decoding=\"async\" width=\"150\" height=\"150\" src=\"https://arshanskaya.com/wp-content/uploads/2013/10/DSC_045272-20-150x150.png\" class=\"attachment-thumbnail size-thumbnail\" alt=\"Vanishing point. Oil on canvas, 100x100 cm\" aria-describedby=\"gallery-2-849\" srcset=\"https://arshanskaya.com/wp-content/uploads/2013/10/DSC_045272-20-150x150.png 150w, https://arshanskaya.com/wp-content/uploads/2013/10/DSC_045272-20-300x300.png 300w, https://arshanskaya.com/wp-content/uploads/2013/10/DSC_045272-20.png 567w\" sizes=\"auto, (max-width: 150px) 100vw, 150px\" /></a>\n\t\t\t</dt>\n\t\t\t\t<dd class='wp-caption-text gallery-caption' id='gallery-2-849'>\n\t\t\t\tVanishing point. Oil on canvas, 100&#215;100 cm\n\t\t\t\t</dd></dl><dl class='gallery-item'>\n\t\t\t<dt class='gallery-icon landscape'>\n\t\t\t\t<a href='https://arshanskaya.com/wp-content/uploads/2013/10/DSC_044172-20.png'><img loading=\"lazy\" decoding=\"async\" width=\"150\" height=\"150\" src=\"https://arshanskaya.com/wp-content/uploads/2013/10/DSC_044172-20-150x150.png\" class=\"attachment-thumbnail size-thumbnail\" alt=\"Grey building. Oil on canvas, 100x100 cm\" aria-describedby=\"gallery-2-847\" srcset=\"https://arshanskaya.com/wp-content/uploads/2013/10/DSC_044172-20-150x150.png 150w, https://arshanskaya.com/wp-content/uploads/2013/10/DSC_044172-20-300x300.png 300w, https://arshanskaya.com/wp-content/uploads/2013/10/DSC_044172-20.png 567w\" sizes=\"auto, (max-width: 150px) 100vw, 150px\" /></a>\n\t\t\t</dt>\n\t\t\t\t<dd class='wp-caption-text gallery-caption' id='gallery-2-847'>\n\t\t\t\tGrey building. Oil on canvas, 100&#215;100 cm\n\t\t\t\t</dd></dl><dl class='gallery-item'>\n\t\t\t<dt class='gallery-icon landscape'>\n\t\t\t\t<a href='https://arshanskaya.com/wp-content/uploads/2013/10/DSC_046072-30.png'><img loading=\"lazy\" decoding=\"async\" width=\"150\" height=\"150\" src=\"https://arshanskaya.com/wp-content/uploads/2013/10/DSC_046072-30-150x150.png\" class=\"attachment-thumbnail size-thumbnail\" alt=\"Empty square. Oil on canvas, 58x129 cm\" aria-describedby=\"gallery-2-846\" /></a>\n\t\t\t</dt>\n\t\t\t\t<dd class='wp-caption-text gallery-caption' id='gallery-2-846'>\n\t\t\t\tEmpty square. Oil on canvas, 58&#215;129 cm\n\t\t\t\t</dd></dl><dl class='gallery-item'>\n\t\t\t<dt class='gallery-icon landscape'>\n\t\t\t\t<a href='https://arshanskaya.com/wp-content/uploads/2013/10/DSC_047172-30.png'><img loading=\"lazy\" decoding=\"async\" width=\"150\" height=\"150\" src=\"https://arshanskaya.com/wp-content/uploads/2013/10/DSC_047172-30-150x150.png\" class=\"attachment-thumbnail size-thumbnail\" alt=\"Industrial. Oil on canvas, 58x129 cm\" aria-describedby=\"gallery-2-848\" /></a>\n\t\t\t</dt>\n\t\t\t\t<dd class='wp-caption-text gallery-caption' id='gallery-2-848'>\n\t\t\t\tIndustrial. Oil on canvas, 58&#215;129 cm\n\t\t\t\t</dd></dl><br style=\"clear: both\" /><dl class='gallery-item'>\n\t\t\t<dt class='gallery-icon landscape'>\n\t\t\t\t<a href='https://arshanskaya.com/wp-content/uploads/2013/05/Reflection.png'><img loading=\"lazy\" decoding=\"async\" width=\"150\" height=\"150\" src=\"https://arshanskaya.com/wp-content/uploads/2013/05/Reflection-150x150.png\" class=\"attachment-thumbnail size-thumbnail\" alt=\"Reflection. Oil on canvas. 70×70 cm\" aria-describedby=\"gallery-2-440\" /></a>\n\t\t\t</dt>\n\t\t\t\t<dd class='wp-caption-text gallery-caption' id='gallery-2-440'>\n\t\t\t\tReflection. Oil on canvas. 70×70 cm\n\t\t\t\t</dd></dl><dl class='gallery-item'>\n\t\t\t<dt class='gallery-icon portrait'>\n\t\t\t\t<a href='https://arshanskaya.com/wp-content/uploads/2012/08/cut_0465.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"150\" height=\"150\" src=\"https://arshanskaya.com/wp-content/uploads/2012/08/cut_0465-150x150.jpg\" class=\"attachment-thumbnail size-thumbnail\" alt=\"Looking down. Oil on canvas, 129x58 cm\" aria-describedby=\"gallery-2-138\" /></a>\n\t\t\t</dt>\n\t\t\t\t<dd class='wp-caption-text gallery-caption' id='gallery-2-138'>\n\t\t\t\tLooking down. Oil on canvas, 129&#215;58 cm\n\t\t\t\t</dd></dl><dl class='gallery-item'>\n\t\t\t<dt class='gallery-icon portrait'>\n\t\t\t\t<a href='https://arshanskaya.com/wp-content/uploads/2012/08/cut_0469.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"150\" height=\"150\" src=\"https://arshanskaya.com/wp-content/uploads/2012/08/cut_0469-150x150.jpg\" class=\"attachment-thumbnail size-thumbnail\" alt=\"Looking up. Oil on canvas, 129x58 cm\" aria-describedby=\"gallery-2-139\" /></a>\n\t\t\t</dt>\n\t\t\t\t<dd class='wp-caption-text gallery-caption' id='gallery-2-139'>\n\t\t\t\tLooking up. Oil on canvas, 129&#215;58 cm\n\t\t\t\t</dd></dl><dl class='gallery-item'>\n\t\t\t<dt class='gallery-icon portrait'>\n\t\t\t\t<a href='https://arshanskaya.com/wp-content/uploads/2013/05/Up-street.png'><img loading=\"lazy\" decoding=\"async\" width=\"150\" height=\"150\" src=\"https://arshanskaya.com/wp-content/uploads/2013/05/Up-street-150x150.png\" class=\"attachment-thumbnail size-thumbnail\" alt=\"Roofs. Oil on canvas. 40×30 cm\" aria-describedby=\"gallery-2-463\" /></a>\n\t\t\t</dt>\n\t\t\t\t<dd class='wp-caption-text gallery-caption' id='gallery-2-463'>\n\t\t\t\tRoofs. Oil on canvas. 40×30 cm\n\t\t\t\t</dd></dl><br style=\"clear: both\" /><dl class='gallery-item'>\n\t\t\t<dt class='gallery-icon portrait'>\n\t\t\t\t<a href='https://arshanskaya.com/wp-content/uploads/2012/08/long_big.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"150\" height=\"150\" src=\"https://arshanskaya.com/wp-content/uploads/2012/08/long_big-150x150.jpg\" class=\"attachment-thumbnail size-thumbnail\" alt=\"Opening. Oil on canvas, 210x35 cm\" aria-describedby=\"gallery-2-141\" /></a>\n\t\t\t</dt>\n\t\t\t\t<dd class='wp-caption-text gallery-caption' id='gallery-2-141'>\n\t\t\t\tOpening. Oil on canvas, 210&#215;35 cm\n\t\t\t\t</dd></dl><dl class='gallery-item'>\n\t\t\t<dt class='gallery-icon landscape'>\n\t\t\t\t<a href='https://arshanskaya.com/wp-content/uploads/2012/08/wide_big.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"150\" height=\"150\" src=\"https://arshanskaya.com/wp-content/uploads/2012/08/wide_big-150x150.jpg\" class=\"attachment-thumbnail size-thumbnail\" alt=\"Panorama. Oil on canvas, 35x210 cm\" aria-describedby=\"gallery-2-148\" /></a>\n\t\t\t</dt>\n\t\t\t\t<dd class='wp-caption-text gallery-caption' id='gallery-2-148'>\n\t\t\t\tPanorama. Oil on canvas, 35&#215;210 cm\n\t\t\t\t</dd></dl><dl class='gallery-item'>\n\t\t\t<dt class='gallery-icon landscape'>\n\t\t\t\t<a href='https://arshanskaya.com/wp-content/uploads/2012/08/urban_big.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"150\" height=\"150\" src=\"https://arshanskaya.com/wp-content/uploads/2012/08/urban_big-150x150.jpg\" class=\"attachment-thumbnail size-thumbnail\" alt=\"Urban. Oil on paper, 70x100 cm\" aria-describedby=\"gallery-2-146\" /></a>\n\t\t\t</dt>\n\t\t\t\t<dd class='wp-caption-text gallery-caption' id='gallery-2-146'>\n\t\t\t\tUrban. Oil on paper, 70&#215;100 cm\n\t\t\t\t</dd></dl><dl class='gallery-item'>\n\t\t\t<dt class='gallery-icon landscape'>\n\t\t\t\t<a href='https://arshanskaya.com/wp-content/uploads/2012/08/street_big.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"150\" height=\"150\" src=\"https://arshanskaya.com/wp-content/uploads/2012/08/street_big-150x150.jpg\" class=\"attachment-thumbnail size-thumbnail\" alt=\"Leiden. Oil on paper, 70x100 cm\" aria-describedby=\"gallery-2-145\" /></a>\n\t\t\t</dt>\n\t\t\t\t<dd class='wp-caption-text gallery-caption' id='gallery-2-145'>\n\t\t\t\tLeiden. Oil on paper, 70&#215;100 cm\n\t\t\t\t</dd></dl><br style=\"clear: both\" /><dl class='gallery-item'>\n\t\t\t<dt class='gallery-icon landscape'>\n\t\t\t\t<a href='https://arshanskaya.com/wp-content/uploads/2012/08/railway_big.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"150\" height=\"150\" src=\"https://arshanskaya.com/wp-content/uploads/2012/08/railway_big-150x150.jpg\" class=\"attachment-thumbnail size-thumbnail\" alt=\"Railway. Oil on paper, 70x100 cm\" aria-describedby=\"gallery-2-143\" /></a>\n\t\t\t</dt>\n\t\t\t\t<dd class='wp-caption-text gallery-caption' id='gallery-2-143'>\n\t\t\t\tRailway. Oil on paper, 70&#215;100 cm\n\t\t\t\t</dd></dl><dl class='gallery-item'>\n\t\t\t<dt class='gallery-icon landscape'>\n\t\t\t\t<a href='https://arshanskaya.com/wp-content/uploads/2012/08/walls_big.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"150\" height=\"150\" src=\"https://arshanskaya.com/wp-content/uploads/2012/08/walls_big-150x150.jpg\" class=\"attachment-thumbnail size-thumbnail\" alt=\"Walls. Oil on paper, 70x100 cm\" aria-describedby=\"gallery-2-147\" /></a>\n\t\t\t</dt>\n\t\t\t\t<dd class='wp-caption-text gallery-caption' id='gallery-2-147'>\n\t\t\t\tWalls. Oil on paper, 70&#215;100 cm\n\t\t\t\t</dd></dl><dl class='gallery-item'>\n\t\t\t<dt class='gallery-icon landscape'>\n\t\t\t\t<a href='https://arshanskaya.com/wp-content/uploads/2012/08/dam_big.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"150\" height=\"150\" src=\"https://arshanskaya.com/wp-content/uploads/2012/08/dam_big-150x150.jpg\" class=\"attachment-thumbnail size-thumbnail\" alt=\"Dam. Oil on paper, 70x100 cm\" aria-describedby=\"gallery-2-140\" /></a>\n\t\t\t</dt>\n\t\t\t\t<dd class='wp-caption-text gallery-caption' id='gallery-2-140'>\n\t\t\t\tDam. Oil on paper, 70&#215;100 cm\n\t\t\t\t</dd></dl><dl class='gallery-item'>\n\t\t\t<dt class='gallery-icon portrait'>\n\t\t\t\t<a href='https://arshanskaya.com/wp-content/uploads/2012/08/Porto_big.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"150\" height=\"150\" src=\"https://arshanskaya.com/wp-content/uploads/2012/08/Porto_big-150x150.jpg\" class=\"attachment-thumbnail size-thumbnail\" alt=\"Porto. Oil on paper, 100x70 cm\" aria-describedby=\"gallery-2-142\" /></a>\n\t\t\t</dt>\n\t\t\t\t<dd class='wp-caption-text gallery-caption' id='gallery-2-142'>\n\t\t\t\tPorto. Oil on paper, 100&#215;70 cm\n\t\t\t\t</dd></dl><br style=\"clear: both\" /><dl class='gallery-item'>\n\t\t\t<dt class='gallery-icon portrait'>\n\t\t\t\t<a href='https://arshanskaya.com/wp-content/uploads/2014/03/Vermeer-72.png'><img loading=\"lazy\" decoding=\"async\" width=\"150\" height=\"150\" src=\"https://arshanskaya.com/wp-content/uploads/2014/03/Vermeer-72-150x150.png\" class=\"attachment-thumbnail size-thumbnail\" alt=\"Hommage to Vermeer. Oil on wood. 65×50 cm\" aria-describedby=\"gallery-2-715\" /></a>\n\t\t\t</dt>\n\t\t\t\t<dd class='wp-caption-text gallery-caption' id='gallery-2-715'>\n\t\t\t\tHommage to Vermeer. Oil on wood. 65×50 cm\n\t\t\t\t</dd></dl><dl class='gallery-item'>\n\t\t\t<dt class='gallery-icon portrait'>\n\t\t\t\t<a href='https://arshanskaya.com/wp-content/uploads/2013/09/DSC_0176.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"150\" height=\"150\" src=\"https://arshanskaya.com/wp-content/uploads/2013/09/DSC_0176-150x150.jpg\" class=\"attachment-thumbnail size-thumbnail\" alt=\"O-Sensei. Oil on canvas. 70×50 cm.\" aria-describedby=\"gallery-2-564\" /></a>\n\t\t\t</dt>\n\t\t\t\t<dd class='wp-caption-text gallery-caption' id='gallery-2-564'>\n\t\t\t\tO-Sensei. Oil on canvas. 70×50 cm.\n\t\t\t\t</dd></dl>\n\t\t\t<br style='clear: both' />\n\t\t</div>\n</p>\n</div>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "",
+      "protected": false
+    },
+    "author": 2,
+    "featured_media": 0,
+    "parent": 0,
+    "menu_order": 0,
+    "comment_status": "closed",
+    "ping_status": "open",
+    "template": "",
+    "meta": {
+      "jetpack_post_was_ever_published": false,
+      "footnotes": "",
+      "_links_to": "",
+      "_links_to_target": ""
+    },
+    "class_list": [
+      "post-591",
+      "page",
+      "type-page",
+      "status-publish",
+      "hentry",
+      "author-alexandra"
+    ],
+    "jetpack_shortlink": "https://wp.me/P43mn0-9x",
+    "jetpack_sharing_enabled": true,
+    "_links": {
+      "self": [
+        {
+          "href": "https://arshanskaya.com/wp-json/wp/v2/pages/591",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://arshanskaya.com/wp-json/wp/v2/pages"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://arshanskaya.com/wp-json/wp/v2/types/page"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://arshanskaya.com/wp-json/wp/v2/users/2"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://arshanskaya.com/wp-json/wp/v2/comments?post=591"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 6,
+          "href": "https://arshanskaya.com/wp-json/wp/v2/pages/591/revisions"
+        }
+      ],
+      "predecessor-version": [
+        {
+          "id": 1158,
+          "href": "https://arshanskaya.com/wp-json/wp/v2/pages/591/revisions/1158"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://arshanskaya.com/wp-json/wp/v2/media?parent=591"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 184,
+    "date": "2012-10-10T19:52:52",
+    "date_gmt": "2012-10-10T18:52:52",
+    "guid": {
+      "rendered": "http://www.arshanskaya.com/?page_id=184"
+    },
+    "modified": "2017-10-30T19:11:03",
+    "modified_gmt": "2017-10-30T18:11:03",
+    "slug": "about",
+    "status": "publish",
+    "type": "page",
+    "link": "https://arshanskaya.com/about/",
+    "title": {
+      "rendered": "Alexandra"
+    },
+    "content": {
+      "rendered": "<p style=\"text-align: left;\"><a href=\"https://arshanskaya.com/wp-content/uploads/2012/10/Colourful-Identities-65-620x620.jpg\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright size-medium wp-image-1037\" src=\"https://arshanskaya.com/wp-content/uploads/2012/10/Colourful-Identities-65-300x300.jpg\" alt=\"\" width=\"300\" height=\"300\" srcset=\"https://arshanskaya.com/wp-content/uploads/2012/10/Colourful-Identities-65-300x300.jpg 300w, https://arshanskaya.com/wp-content/uploads/2012/10/Colourful-Identities-65-150x150.jpg 150w, https://arshanskaya.com/wp-content/uploads/2012/10/Colourful-Identities-65-620x620.jpg 620w, https://arshanskaya.com/wp-content/uploads/2012/10/Colourful-Identities-65.jpg 816w\" sizes=\"auto, (max-width: 300px) 100vw, 300px\" /></a></p>\n<p>Alexandra Arshanskaya is a visual artist working in different media including painting, drawing and performances. Her art works are devoted to spatial perception.<br />\nAlexandra’s art practice began as a broad exploration of representations of space, such as architecture, urban landscapes, perspective, vanishing points, surfaces, intersections and reflections on reality. In her paintings and drawings she conveys a strong sense of depth and space, employing the interplay of light and shadow, and illusions of perspective and infinity, where emotional aspect of spatial perception plays an important role. The intricate fusion of inner and outer worlds lies at the heart of her painting. To emphasize a spatial impression Alexandra’s painting often is continuing on sides of its frame that makes the flat image three-dimensional object by itself. Alexandra uses vivid bright colors and gentle smooth transitions between them. She appreciates clear lines and working with meticulously precise brush technique.<br />\nSpatial perception, however, is intimately connected with the active exploration of space through movement over time. Just as a dancer crosses a stage following the rhythm of scored music, so, too, does a viewer’s gaze dance across the surface of an image according to its own particular rhythm. In an effort to address this aspect of experience and to connect these modes of expression more directly, since 2011 Alexandra expanded her practice into an investigation of painting and drawing as a live performance.<br />\nBy performing the act of image making before the eyes of the viewer, the audience is included in the process of creating at the moment of creation. Moreover, when this is accomplished alongside live music and/or dance, the audience’s experience of the surrounding space and time is amplified, as image, sound, and space are connected in a new unity.<br />\nAlexandra Arshanskaya studied exact sciences at University (St-Petersburg, Russia) and obtained a Bachelor of Art degree from the Royal Academy of Art (The Hague, The Netherlands) in 2012. Here is her <a href=\"http://www.kabk.nl/eindexamenNL.php?id=467/\">Final Project at KABK</a><br />\nAlexandra&#8217;s first live painting performances took place during Non-conformist Festival  in St.Petersburg (Russia) in 2011 and at the final concert of the season at the Conservatory in Arnhem (The Netherlands) the same year. In October 2012 Alexandra gave a live drawing performance alongside the Residentie Orkest during its presentation of Le Sacre du Printemps (Igor Stravinsky) in Dr Anton Philipszaal (The Hague, The Netherlands). Here is a video documentation of the <a href=\"http://vimeo.com/58969757/\">Le Sacre Live Drawing</a> part of this outstanding performance.<br />\nIn addition to exhibitions in which she has participated in Netherlands, London (UK), Berlin (DE) and St-Petersburg (Russia) during last ten years, Alexandra took part in jam sessions with dancers and musicians in The Netherlands, in 2013 she performed live drawings three times in London (by using different digital and analog drawing media) and once in The Hague during Today’s Art festival (here is a link to the four minutes video <a href=\"http://vimeo.com/86021267/\">Four Chapters</a> of 20 minutes performance). Her <a href=\"http://vimeo.com/85053496/\">Video Art Tree</a> for modern dance performance was shown four times at different venues in St-Petersburg in 2014. In May the same year Alexandra performed digital drawing and VJ-ing during closing party of LISFE (Leiden International Short Film Experience) in Leiden (The Netherlands). In September and October 2014 Alexandra performed <a href=\"https://vimeo.com/arshanskaya/zerkalo-performance\">Live Drawing Performances with Live Electroacoustic Sound</a> during the opening and the finissage of her solo exhibition at Gallery O-68 (Velp, The Netherlands). Another art project <a href=\"https://arshanskaya.com/colourful-identities-performance/\">Colourful Identities</a> (three Live Drawing Performances with the live jazz music) took place in Berlin in April 2015. In fall 2015 Alexandra participated in some group exhibitions on The Netherlands and performed at <a href=\"http://nunotorresmarques.com/projects/inedits/\">CD presentation of a new album &#8216;Vortex&#8217; by INEDITS</a> at Korzo Theater in The Hague (The Netherlands). During the opening of the group exhibition at the Atrium of the City Hall of The Hague in April 2016, Alexandra presented analog live painting performance along with a live music band. In June 2017 she performed digital Live Drawing Performance during the string trio concert as a part of the ‘Moon Village’ project at Estec (European Space Agency) in Noordwijk (NL).</p>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>Alexandra Arshanskaya is a visual artist working in different media including painting, drawing and performances. Her art works are devoted to spatial perception. Alexandra’s art practice began as a broad exploration of representations of space, such as architecture, urban landscapes, perspective, vanishing points, surfaces, intersections and reflections on reality. In her paintings and drawings she <a href=\"https://arshanskaya.com/about/\"> read more <span class=\"meta-nav\">&raquo;</span></a></p>\n",
+      "protected": false
+    },
+    "author": 2,
+    "featured_media": 0,
+    "parent": 0,
+    "menu_order": 0,
+    "comment_status": "closed",
+    "ping_status": "open",
+    "template": "",
+    "meta": {
+      "jetpack_post_was_ever_published": false,
+      "footnotes": "",
+      "_links_to": "",
+      "_links_to_target": ""
+    },
+    "class_list": [
+      "post-184",
+      "page",
+      "type-page",
+      "status-publish",
+      "hentry",
+      "author-alexandra"
+    ],
+    "jetpack_shortlink": "https://wp.me/P43mn0-2Y",
+    "jetpack_sharing_enabled": true,
+    "_links": {
+      "self": [
+        {
+          "href": "https://arshanskaya.com/wp-json/wp/v2/pages/184",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://arshanskaya.com/wp-json/wp/v2/pages"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://arshanskaya.com/wp-json/wp/v2/types/page"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://arshanskaya.com/wp-json/wp/v2/users/2"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://arshanskaya.com/wp-json/wp/v2/comments?post=184"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 24,
+          "href": "https://arshanskaya.com/wp-json/wp/v2/pages/184/revisions"
+        }
+      ],
+      "predecessor-version": [
+        {
+          "id": 1101,
+          "href": "https://arshanskaya.com/wp-json/wp/v2/pages/184/revisions/1101"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://arshanskaya.com/wp-json/wp/v2/media?parent=184"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 124,
+    "date": "2012-08-24T23:05:05",
+    "date_gmt": "2012-08-24T22:05:05",
+    "guid": {
+      "rendered": "http://www.arshanskaya.com/?page_id=124"
+    },
+    "modified": "2013-04-23T05:54:15",
+    "modified_gmt": "2013-04-23T04:54:15",
+    "slug": "contact-form",
+    "status": "publish",
+    "type": "page",
+    "link": "https://arshanskaya.com/contact-form/",
+    "title": {
+      "rendered": "Contact"
+    },
+    "content": {
+      "rendered": "<p>\n<div class=\"wpcf7 no-js\" id=\"wpcf7-f381-o1\" lang=\"\" dir=\"ltr\" data-wpcf7-id=\"381\">\n<div class=\"screen-reader-response\"><p role=\"status\" aria-live=\"polite\" aria-atomic=\"true\"></p> <ul></ul></div>\n<form action=\"/wp-json/wp/v2/pages?per_page=100&#038;page=1#wpcf7-f381-o1\" method=\"post\" class=\"wpcf7-form init\" aria-label=\"Contact form\" novalidate=\"novalidate\" data-status=\"init\">\n<fieldset class=\"hidden-fields-container\"><input type=\"hidden\" name=\"_wpcf7\" value=\"381\" /><input type=\"hidden\" name=\"_wpcf7_version\" value=\"6.1.2\" /><input type=\"hidden\" name=\"_wpcf7_locale\" value=\"\" /><input type=\"hidden\" name=\"_wpcf7_unit_tag\" value=\"wpcf7-f381-o1\" /><input type=\"hidden\" name=\"_wpcf7_container_post\" value=\"0\" /><input type=\"hidden\" name=\"_wpcf7_posted_data_hash\" value=\"\" />\n</fieldset>\n<p>Your Name (required)\n</p>\n<p><span class=\"wpcf7-form-control-wrap\" data-name=\"your-name\"><input size=\"40\" maxlength=\"400\" class=\"wpcf7-form-control wpcf7-text wpcf7-validates-as-required\" aria-required=\"true\" aria-invalid=\"false\" value=\"\" type=\"text\" name=\"your-name\" /></span>\n</p>\n<p>Your Email (required)\n</p>\n<p><span class=\"wpcf7-form-control-wrap\" data-name=\"your-email\"><input size=\"40\" maxlength=\"400\" class=\"wpcf7-form-control wpcf7-email wpcf7-validates-as-required wpcf7-text wpcf7-validates-as-email\" aria-required=\"true\" aria-invalid=\"false\" value=\"\" type=\"email\" name=\"your-email\" /></span>\n</p>\n<p>Subject\n</p>\n<p><span class=\"wpcf7-form-control-wrap\" data-name=\"your-subject\"><input size=\"40\" maxlength=\"400\" class=\"wpcf7-form-control wpcf7-text\" aria-invalid=\"false\" value=\"\" type=\"text\" name=\"your-subject\" /></span>\n</p>\n<p>Your Message\n</p>\n<p><span class=\"wpcf7-form-control-wrap\" data-name=\"your-message\"><textarea cols=\"40\" rows=\"10\" maxlength=\"2000\" class=\"wpcf7-form-control wpcf7-textarea\" aria-invalid=\"false\" name=\"your-message\"></textarea></span>\n</p>\n<p><input class=\"wpcf7-form-control wpcf7-submit has-spinner\" type=\"submit\" value=\"Send\" />\n</p><p style=\"display: none !important;\" class=\"akismet-fields-container\" data-prefix=\"_wpcf7_ak_\"><label>&#916;<textarea name=\"_wpcf7_ak_hp_textarea\" cols=\"45\" rows=\"8\" maxlength=\"100\"></textarea></label><input type=\"hidden\" id=\"ak_js_1\" name=\"_wpcf7_ak_js\" value=\"51\"/><script>document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() );</script></p><div class=\"wpcf7-response-output\" aria-hidden=\"true\"></div>\n</form>\n</div>\n</p>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "",
+      "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "parent": 0,
+    "menu_order": 0,
+    "comment_status": "closed",
+    "ping_status": "open",
+    "template": "",
+    "meta": {
+      "jetpack_post_was_ever_published": false,
+      "footnotes": "",
+      "_links_to": "",
+      "_links_to_target": ""
+    },
+    "class_list": [
+      "post-124",
+      "page",
+      "type-page",
+      "status-publish",
+      "hentry",
+      "author-marat"
+    ],
+    "jetpack_shortlink": "https://wp.me/P43mn0-20",
+    "jetpack_sharing_enabled": true,
+    "_links": {
+      "self": [
+        {
+          "href": "https://arshanskaya.com/wp-json/wp/v2/pages/124",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://arshanskaya.com/wp-json/wp/v2/pages"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://arshanskaya.com/wp-json/wp/v2/types/page"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://arshanskaya.com/wp-json/wp/v2/users/1"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://arshanskaya.com/wp-json/wp/v2/comments?post=124"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 3,
+          "href": "https://arshanskaya.com/wp-json/wp/v2/pages/124/revisions"
+        }
+      ],
+      "predecessor-version": [
+        {
+          "id": 388,
+          "href": "https://arshanskaya.com/wp-json/wp/v2/pages/124/revisions/388"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://arshanskaya.com/wp-json/wp/v2/media?parent=124"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 19,
+    "date": "2012-08-24T15:41:10",
+    "date_gmt": "2012-08-24T14:41:10",
+    "guid": {
+      "rendered": "http://www.arshanskaya.com/?page_id=19"
+    },
+    "modified": "2012-08-24T15:50:53",
+    "modified_gmt": "2012-08-24T14:50:53",
+    "slug": "contact",
+    "status": "publish",
+    "type": "page",
+    "link": "https://arshanskaya.com/contact/",
+    "title": {
+      "rendered": ""
+    },
+    "content": {
+      "rendered": "<p>\n<div class=\"wpcf7 no-js\" id=\"wpcf7-f16-o2\" lang=\"\" dir=\"ltr\" data-wpcf7-id=\"16\">\n<div class=\"screen-reader-response\"><p role=\"status\" aria-live=\"polite\" aria-atomic=\"true\"></p> <ul></ul></div>\n<form action=\"/wp-json/wp/v2/pages?per_page=100&#038;page=1#wpcf7-f16-o2\" method=\"post\" class=\"wpcf7-form init\" aria-label=\"Contact form\" novalidate=\"novalidate\" data-status=\"init\">\n<fieldset class=\"hidden-fields-container\"><input type=\"hidden\" name=\"_wpcf7\" value=\"16\" /><input type=\"hidden\" name=\"_wpcf7_version\" value=\"6.1.2\" /><input type=\"hidden\" name=\"_wpcf7_locale\" value=\"\" /><input type=\"hidden\" name=\"_wpcf7_unit_tag\" value=\"wpcf7-f16-o2\" /><input type=\"hidden\" name=\"_wpcf7_container_post\" value=\"0\" /><input type=\"hidden\" name=\"_wpcf7_posted_data_hash\" value=\"\" />\n</fieldset>\n<p>Your Name (required)\n</p>\n<p><span class=\"wpcf7-form-control-wrap\" data-name=\"your-name\"><input size=\"40\" maxlength=\"400\" class=\"wpcf7-form-control wpcf7-text wpcf7-validates-as-required\" aria-required=\"true\" aria-invalid=\"false\" value=\"\" type=\"text\" name=\"your-name\" /></span>\n</p>\n<p>Your Email (required)\n</p>\n<p><span class=\"wpcf7-form-control-wrap\" data-name=\"your-email\"><input size=\"40\" maxlength=\"400\" class=\"wpcf7-form-control wpcf7-email wpcf7-validates-as-required wpcf7-text wpcf7-validates-as-email\" aria-required=\"true\" aria-invalid=\"false\" value=\"\" type=\"email\" name=\"your-email\" /></span>\n</p>\n<p>Subject\n</p>\n<p><span class=\"wpcf7-form-control-wrap\" data-name=\"your-subject\"><input size=\"40\" maxlength=\"400\" class=\"wpcf7-form-control wpcf7-text\" aria-invalid=\"false\" value=\"\" type=\"text\" name=\"your-subject\" /></span>\n</p>\n<p>Your Message\n</p>\n<p><span class=\"wpcf7-form-control-wrap\" data-name=\"your-message\"><textarea cols=\"40\" rows=\"10\" maxlength=\"2000\" class=\"wpcf7-form-control wpcf7-textarea\" aria-invalid=\"false\" name=\"your-message\"></textarea></span>\n</p>\n<p><input class=\"wpcf7-form-control wpcf7-submit has-spinner\" type=\"submit\" value=\"Send\" />\n</p><p style=\"display: none !important;\" class=\"akismet-fields-container\" data-prefix=\"_wpcf7_ak_\"><label>&#916;<textarea name=\"_wpcf7_ak_hp_textarea\" cols=\"45\" rows=\"8\" maxlength=\"100\"></textarea></label><input type=\"hidden\" id=\"ak_js_2\" name=\"_wpcf7_ak_js\" value=\"218\"/><script>document.getElementById( \"ak_js_2\" ).setAttribute( \"value\", ( new Date() ).getTime() );</script></p><div class=\"wpcf7-response-output\" aria-hidden=\"true\"></div>\n</form>\n</div>\n</p>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "",
+      "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "parent": 0,
+    "menu_order": 0,
+    "comment_status": "open",
+    "ping_status": "open",
+    "template": "",
+    "meta": {
+      "jetpack_post_was_ever_published": false,
+      "footnotes": "",
+      "_links_to": "",
+      "_links_to_target": ""
+    },
+    "class_list": [
+      "post-19",
+      "page",
+      "type-page",
+      "status-publish",
+      "hentry",
+      "author-marat"
+    ],
+    "jetpack_shortlink": "https://wp.me/P43mn0-j",
+    "jetpack_sharing_enabled": true,
+    "_links": {
+      "self": [
+        {
+          "href": "https://arshanskaya.com/wp-json/wp/v2/pages/19",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://arshanskaya.com/wp-json/wp/v2/pages"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://arshanskaya.com/wp-json/wp/v2/types/page"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://arshanskaya.com/wp-json/wp/v2/users/1"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://arshanskaya.com/wp-json/wp/v2/comments?post=19"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 2,
+          "href": "https://arshanskaya.com/wp-json/wp/v2/pages/19/revisions"
+        }
+      ],
+      "predecessor-version": [
+        {
+          "id": 25,
+          "href": "https://arshanskaya.com/wp-json/wp/v2/pages/19/revisions/25"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://arshanskaya.com/wp-json/wp/v2/media?parent=19"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  }
+]

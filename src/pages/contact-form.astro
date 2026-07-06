@@ -1,0 +1,26 @@
+---
+import Layout from "../layouts/Layout.astro";
+
+const email = "alexandra.arshanskaya@gmail.com";
+// Numeric-character-reference encode so the address never appears as plain
+// text in the served HTML (a mild deterrent to naive scrapers) while browsers
+// render and decode it exactly like a normal mailto link — no JS required.
+const encode = (str: string) =>
+  str
+    .split("")
+    .map((c) => `&#${c.charCodeAt(0)};`)
+    .join("");
+const anchorHtml = `<a href="${encode(`mailto:${email}`)}">${encode(email)}</a>`;
+---
+
+<Layout title="Contact" description="Get in touch with Alexandra Arshanskaya.">
+  <h1>Contact</h1>
+  <p>For inquiries about artwork, exhibitions or commissions, get in touch by email:</p>
+  <p class="email" set:html={anchorHtml} />
+</Layout>
+
+<style>
+  .email {
+    font-size: 1.2rem;
+  }
+</style>
