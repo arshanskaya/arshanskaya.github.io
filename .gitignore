@@ -25,3 +25,7 @@ pnpm-debug.log*
 
 # local Claude Code session state
 .claude/
+
+# internal migration notes, not for the public repo
+HANDOVER.md
+PLAN.md
